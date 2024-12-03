@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OVIA SOUTH-WEST.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>OVIA SOUTH-WEST</name>
+		<open>1</open>
+		<Placemark>
+			<name>OVIA SOUTH-WEST LGA</name>
+			<LookAt>
+				<gx:TimeStamp><when>2024-05-06</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.362574700109557</longitude>
+				<latitude>6.559314400265263</latitude>
+				<altitude>0</altitude>
+				<heading>1.250435073017381e-11</heading>
+				<tilt>0</tilt>
+				<range>1162.515834329547</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.362569780288334,6.559308866879409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IGUOBAZUWA WEST</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-05-06</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.354386312387303</longitude>
+				<latitude>6.566550377611238</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003708195408592612</heading>
+				<tilt>21.06083911962286</tilt>
+				<range>279.9416935384841</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.353973608201416,6.567021207433513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IGUOBAZUWA EAST</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2022-01-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.369791239337951</longitude>
+				<latitude>6.54155411864209</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001185720455951581</heading>
+				<tilt>17.70410903699621</tilt>
+				<range>166.3608930894159</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.37025619942872,6.541393067745124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UMAZA
+</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2022-01-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.265842300031623</longitude>
+				<latitude>6.549172400093223</latitude>
+				<altitude>0</altitude>
+				<heading>3.596014636729689e-12</heading>
+				<tilt>0</tilt>
+				<range>1170.932739069643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.265842300031622,6.549172400093223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UDO
+</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2022-01-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.350282417422206</longitude>
+				<latitude>6.475384436031626</latitude>
+				<altitude>0</altitude>
+				<heading>-8.085194295978165e-07</heading>
+				<tilt>22.3397760241827</tilt>
+				<range>315.9262757728182</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.350246408573803,6.475501698090082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORA
+</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2022-01-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.39307795718009</longitude>
+				<latitude>6.498619451996222</latitude>
+				<altitude>0</altitude>
+				<heading>-1.574793439319153e-05</heading>
+				<tilt>26.48700450449926</tilt>
+				<range>104.3492508703806</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.392905555555556,6.498811111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USE</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2022-01-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.61208592507661</longitude>
+				<latitude>6.354439512160719</latitude>
+				<altitude>0</altitude>
+				<heading>-1.43641800801596e-12</heading>
+				<tilt>0</tilt>
+				<range>312.7256774436104</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.612030336052305,6.354478767039605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UGBOGUI
+</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2022-01-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.242908582839454</longitude>
+				<latitude>6.695238815967484</latitude>
+				<altitude>0</altitude>
+				<heading>-1.854793909331456e-06</heading>
+				<tilt>20.77423858008907</tilt>
+				<range>408.9220372551291</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.242216666666667,6.695761111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OFUNAMA</name>
+			<LookAt>
+				<gx:TimeStamp><when>2024-05-06</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>5.215986591444993</longitude>
+				<latitude>6.150473351696726</latitude>
+				<altitude>0</altitude>
+				<heading>-8.455315740846826e-06</heading>
+				<tilt>19.9401757748604</tilt>
+				<range>342.9657542802194</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>5.216047222222223,6.150763888888888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder id="results">
+			<name>IGUOBAZUWA WEST</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625698,6.5593089,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>Iguobazuwa Grammar School</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.3539736,6.5670212,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Okokpon-Iguoriakhi-Evbodia Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626228</longitude>
+						<latitude>6.5593309</latitude>
+						<altitude>0</altitude>
+						<heading>-29.706161</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.6593309</north>
+							<south>6.4593309</south>
+							<east>5.462622799999999</east>
+							<west>5.2626228</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626228,6.559330899999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.3">
+					<name>Turn right at SAMBEST MOBILE-TECH onto Okokpon-Iguoriakhi-Evbodia Rd</name>
+					<description>Turn right at SAMBEST MOBILE-TECH onto Okokpon-Iguoriakhi-Evbodia Rd</description>
+					<LookAt>
+						<longitude>5.3543803</longitude>
+						<latitude>6.565766699999999</latitude>
+						<altitude>0</altitude>
+						<heading>-127.377014</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.665766699999999</north>
+							<south>6.4657667</south>
+							<east>5.4543803</east>
+							<west>5.2543803</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3543803,6.565766699999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626228,6.559330899999999,0 5.3626228,6.559330899999999,0 5.3626156,6.5593479,0 5.362419,6.5596796,0 5.3622066,6.559927700000001,0 5.361934,6.560202099999999,0 5.3619165,6.560220500000001,0 5.3619158,6.5602212,0 5.3616991,6.5604484,0 5.3615352,6.5606046,0 5.3613692,6.5607639,0 5.3610303,6.5610894,0 5.3609909,6.5611281,0 5.360862,6.5612545,0 5.3607735,6.5613413,0 5.3602196,6.5618881,0 5.3601716,6.561937500000001,0 5.3600974,6.5620086,0 5.3594933,6.5625819,0 5.3589282,6.5631071,0 5.3585293,6.5634779,0 5.3583258,6.5636546,0 5.358046,6.5638976,0 5.3578693,6.564040900000001,0 5.3577742,6.5641178,0 5.3573247,6.564498500000001,0 5.3571284,6.5646668,0 5.3569884,6.564788699999999,0 5.3568856,6.564875,0 5.3565068,6.5652129,0 5.3564148,6.5652939,0 5.3562572,6.5654122,0 5.3560182,6.5655726,0 5.3559628,6.5656133,0 5.3556441,6.565821100000001,0 5.3553774,6.5659382,0 5.3553139,6.5659661,0 5.3551556,6.5660155,0 5.3550284,6.5660266,0 5.3548829,6.566017099999999,0 5.3547422,6.565985900000001,0 5.3546292,6.565928900000001,0 5.3545012,6.565864199999999,0 5.3543803,6.565766699999999,0 5.3541213,6.5661544,0 5.3538896,6.5665414,0 5.3538372,6.5666247,0 5.3536961,6.5668488,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder id="1.4">
+				<name>Okokpon-Iguoriakhi-Evbodia Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.4.2.2.2">
+					<name>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626228</longitude>
+						<latitude>6.5593309</latitude>
+						<altitude>0</altitude>
+						<heading>-29.706161</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.6593309</north>
+							<south>6.4593309</south>
+							<east>5.462622799999999</east>
+							<west>5.2626228</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626228,6.559330899999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.4.2.2.3">
+					<name>Turn right at SAMBEST MOBILE-TECH onto Okokpon-Iguoriakhi-Evbodia Rd</name>
+					<description>Turn right at SAMBEST MOBILE-TECH onto Okokpon-Iguoriakhi-Evbodia Rd</description>
+					<LookAt>
+						<longitude>5.3543803</longitude>
+						<latitude>6.565766699999999</latitude>
+						<altitude>0</altitude>
+						<heading>-127.377014</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.665766699999999</north>
+							<south>6.4657667</south>
+							<east>5.4543803</east>
+							<west>5.2543803</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3543803,6.565766699999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.4.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626228,6.559330899999999,0 5.3626228,6.559330899999999,0 5.3626156,6.5593479,0 5.362419,6.5596796,0 5.3622066,6.559927700000001,0 5.361934,6.560202099999999,0 5.3619165,6.560220500000001,0 5.3619158,6.5602212,0 5.3616991,6.5604484,0 5.3615352,6.5606046,0 5.3613692,6.5607639,0 5.3610303,6.5610894,0 5.3609909,6.5611281,0 5.360862,6.5612545,0 5.3607735,6.5613413,0 5.3602196,6.5618881,0 5.3601716,6.561937500000001,0 5.3600974,6.5620086,0 5.3594933,6.5625819,0 5.3589282,6.5631071,0 5.3585293,6.5634779,0 5.3583258,6.5636546,0 5.358046,6.5638976,0 5.3578693,6.564040900000001,0 5.3577742,6.5641178,0 5.3573247,6.564498500000001,0 5.3571284,6.5646668,0 5.3569884,6.564788699999999,0 5.3568856,6.564875,0 5.3565068,6.5652129,0 5.3564148,6.5652939,0 5.3562572,6.5654122,0 5.3560182,6.5655726,0 5.3559628,6.5656133,0 5.3556441,6.565821100000001,0 5.3553774,6.5659382,0 5.3553139,6.5659661,0 5.3551556,6.5660155,0 5.3550284,6.5660266,0 5.3548829,6.566017099999999,0 5.3547422,6.565985900000001,0 5.3546292,6.565928900000001,0 5.3545012,6.565864199999999,0 5.3543803,6.565766699999999,0 5.3541213,6.5661544,0 5.3538896,6.5665414,0 5.3538372,6.5666247,0 5.3536961,6.5668488,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="results">
+			<name>IGUOBAZUWA EAST</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625698,6.5593089,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>Iguobazuwa East</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.3702562,6.5413931,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626228</longitude>
+						<latitude>6.5593309</latitude>
+						<altitude>0</altitude>
+						<heading>157.32799</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.6593309</north>
+							<south>6.4593309</south>
+							<east>5.462622799999999</east>
+							<west>5.2626228</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626228,6.559330899999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626228,6.559330899999999,0 5.3626228,6.559330899999999,0 5.3627952,6.5589209,0 5.362869,6.5587225,0 5.36287,6.5587198,0 5.3629893,6.5583994,0 5.3631144,6.5580412,0 5.3631667,6.5579275,0 5.3632272,6.5577529,0 5.3635037,6.5570716,0 5.3635114,6.5570537,0 5.3636373,6.5567535,0 5.3641396,6.555585500000001,0 5.3647468,6.554262399999999,0 5.3648219,6.5540987,0 5.36521,6.553252899999999,0 5.3654854,6.5526203,0 5.3655572,6.5524552,0 5.3659164,6.551629700000001,0 5.3662038,6.5509693,0 5.3662757,6.5508042,0 5.3667786,6.549648499999999,0 5.367066,6.5489882,0 5.3672256,6.548621500000001,0 5.3673476,6.5483254,0 5.3674162,6.548159,0 5.3676906,6.5474932,0 5.3677593,6.5473267,0 5.3677748,6.547288900000001,0 5.3680206,6.5466955,0 5.3683918,6.5458349,0 5.3684631,6.5456696,0 5.3684799,6.5456308,0 5.3688365,6.5448035,0 5.3688928,6.5446785,0 5.3698732,6.542500499999999,0 5.3699274,6.542379700000001,0 5.3703511,6.5414351,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="results">
+			<name>UMAZA</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625694,6.5593083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>Umaza Health Post</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.2658417,6.5491722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Siluko-Iguobazuwa Rd and Siluko Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626229</longitude>
+						<latitude>6.5593305</latitude>
+						<altitude>0</altitude>
+						<heading>-29.66872</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.659330499999999</north>
+							<south>6.4593305</south>
+							<east>5.4626229</east>
+							<west>5.2626229</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626229,6.5593305,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.3">
+					<name>Continue onto Siluko-Iguobazuwa Rd</name>
+					<description>Continue onto Siluko-Iguobazuwa Rd</description>
+					<LookAt>
+						<longitude>5.3525757</longitude>
+						<latitude>6.5642494</latitude>
+						<altitude>0</altitude>
+						<heading>-127.079636</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.664249399999999</north>
+							<south>6.4642494</south>
+							<east>5.4525757</east>
+							<west>5.2525757</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3525757,6.5642494,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.4">
+					<name>Continue onto Siluko Rd</name>
+					<description>Continue onto Siluko Rd</description>
+					<LookAt>
+						<longitude>5.2998001</longitude>
+						<latitude>6.564568599999999</latitude>
+						<altitude>0</altitude>
+						<heading>-86.2124</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.664568599999999</north>
+							<south>6.4645686</south>
+							<east>5.399800099999999</east>
+							<west>5.1998001</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.2998001,6.564568599999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.5">
+					<name>Continue onto Siluko Rd</name>
+					<description>Continue onto Siluko Rd</description>
+					<LookAt>
+						<longitude>5.2881025</longitude>
+						<latitude>6.562617899999999</latitude>
+						<altitude>0</altitude>
+						<heading>-133.9177</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.662617899999999</north>
+							<south>6.4626179</south>
+							<east>5.3881025</east>
+							<west>5.1881025</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.2881025,6.562617899999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626229,6.5593305,0 5.3626229,6.5593305,0 5.3626156,6.5593479,0 5.362419,6.5596796,0 5.3622066,6.559927700000001,0 5.361934,6.560202099999999,0 5.3619165,6.560220500000001,0 5.3619158,6.5602212,0 5.3616991,6.5604484,0 5.3615352,6.5606046,0 5.3613692,6.5607639,0 5.3610303,6.5610894,0 5.3609909,6.5611281,0 5.360862,6.5612545,0 5.3607735,6.5613413,0 5.3602196,6.5618881,0 5.3601716,6.561937500000001,0 5.3600974,6.5620086,0 5.3594933,6.5625819,0 5.3589282,6.5631071,0 5.3585293,6.5634779,0 5.3583258,6.5636546,0 5.358046,6.5638976,0 5.3578693,6.564040900000001,0 5.3577742,6.5641178,0 5.3573247,6.564498500000001,0 5.3571284,6.5646668,0 5.3569884,6.564788699999999,0 5.3568856,6.564875,0 5.3565068,6.5652129,0 5.3564148,6.5652939,0 5.3562572,6.5654122,0 5.3560182,6.5655726,0 5.3559628,6.5656133,0 5.3556441,6.565821100000001,0 5.3553774,6.5659382,0 5.3553139,6.5659661,0 5.3551556,6.5660155,0 5.3550284,6.5660266,0 5.3548829,6.566017099999999,0 5.3547422,6.565985900000001,0 5.3546292,6.565928900000001,0 5.3545012,6.565864199999999,0 5.3543803,6.565766699999999,0 5.3543691,6.5657576,0 5.3541954,6.5655702,0 5.3539944,6.565378,0 5.3538639,6.5652533,0 5.3536992,6.5650959,0 5.3534484,6.564907199999999,0 5.3528638,6.5644657,0 5.3525757,6.5642494,0 5.3518288,6.5636489,0 5.3510288,6.563009400000001,0 5.3509306,6.5629231,0 5.3507448,6.562799600000001,0 5.3501501,6.5623891,0 5.3500191,6.562298600000001,0 5.3495584,6.5619742,0 5.3494107,6.5618702,0 5.348917,6.561522699999999,0 5.3487342,6.5614017,0 5.3479798,6.5609184,0 5.3473267,6.5606093,0 5.3468294,6.5604944,0 5.3463651,6.560403199999999,0 5.3462652,6.560380800000001,0 5.3461417,6.5603532,0 5.3460872,6.5603532,0 5.3458274,6.560353299999999,0 5.3453003,6.5603905,0 5.3446923,6.5604443,0 5.3446431,6.5604516,0 5.3435686,6.560610099999999,0 5.3432301,6.5606601,0 5.3426761,6.5607598,0 5.3424979,6.5607919,0 5.3419852,6.560884099999999,0 5.3414269,6.5609717,0 5.341241,6.5610008,0 5.3408904,6.561055600000001,0 5.3405326,6.5611115,0 5.3403538,6.5611394,0 5.33999,6.561196200000001,0 5.3393337,6.5612988,0 5.3392757,6.5613072,0 5.3391015,6.561333,0 5.3389224,6.5613594,0 5.3389181,6.561360100000001,0 5.3374899,6.561571900000001,0 5.3371318,6.561624999999999,0 5.3369527,6.5616515,0 5.3369507,6.5616518,0 5.3365946,6.5617046,0 5.3360573,6.561784099999999,0 5.3356992,6.5618372,0 5.3342666,6.5620494,0 5.3331958,6.562208,0 5.3328341,6.5622616,0 5.3305128,6.5626055,0 5.3296108,6.562739099999999,0 5.3294403,6.5627643,0 5.3294317,6.562765600000001,0 5.329066,6.562819999999999,0 5.3285315,6.562852400000001,0 5.3274585,6.5629173,0 5.3274473,6.562918,0 5.3267369,6.562960899999999,0 5.3267244,6.5629617,0 5.3265437,6.5629726,0 5.3258208,6.5630162,0 5.3256546,6.5630262,0 5.3256401,6.5630271,0 5.3255303,6.5630338,0 5.3242104,6.563090400000001,0 5.3238292,6.563106999999999,0 5.3236578,6.5630563,0 5.3235019,6.5630101,0 5.3229637,6.562850800000001,0 5.3226167,6.562748099999999,0 5.322464,6.5627029,0 5.3224434,6.5626959,0 5.3219293,6.562522000000001,0 5.3212263,6.5622842,0 5.3208507,6.5621722,0 5.320544,6.5621072,0 5.3204484,6.562087,0 5.32003,6.562023000000001,0 5.3196008,6.562007,0 5.319105,6.562055,0 5.3189282,6.5620923,0 5.3186625,6.5621483,0 5.3181126,6.5623241,0 5.3180593,6.562341,0 5.3175582,6.5625,0 5.3171971,6.5626152,0 5.3169654,6.5626892,0 5.316853,6.5627272,0 5.3165102,6.562843000000001,0 5.3162028,6.5629468,0 5.3154732,6.563163900000001,0 5.3154038,6.5631845,0 5.3152993,6.563214,0 5.3149881,6.5633017,0 5.3144349,6.5634804,0 5.3142627,6.563536000000001,0 5.3135416,6.563768899999999,0 5.313265,6.563846300000001,0 5.3130157,6.5639249,0 5.3129899,6.5639324,0 5.3127664,6.563997800000001,0 5.3124937,6.5640881,0 5.3122004,6.5641784,0 5.3119658,6.5642425,0 5.3116082,6.5643629,0 5.311531,6.5643889,0 5.3112644,6.564475899999999,0 5.3110248,6.5645541,0 5.3104705,6.5647046,0 5.3101417,6.5648331,0 5.310058,6.5648574,0 5.3098843,6.564907899999999,0 5.3097306,6.564952599999999,0 5.3094063,6.5650166,0 5.3090138,6.5651031,0 5.3088212,6.565121999999999,0 5.308586,6.5651451,0 5.3081085,6.5651545,0 5.3080983,6.5651542,0 5.3079173,6.5651486,0 5.307754,6.5651435,0 5.3075556,6.565133,0 5.3066092,6.5650827,0 5.306471,6.5650728,0 5.3061098,6.565046799999999,0 5.3058443,6.565027699999999,0 5.3057489,6.5650179,0 5.3052087,6.5649623,0 5.3048485,6.5649252,0 5.3048097,6.564921199999999,0 5.3044879,6.5648924,0 5.3035863,6.5648115,0 5.303406,6.564795400000001,0 5.3033906,6.564794,0 5.3026552,6.564718700000001,0 5.3025054,6.5647045,0 5.3017844,6.564636199999999,0 5.300703,6.5645338,0 5.3005497,6.564519299999999,0 5.2998001,6.5645686,0 5.2987142,6.5645396,0 5.2974473,6.5645058,0 5.2967228,6.5644864,0 5.2956125,6.5645337,0 5.2953541,6.5645227,0 5.2948258,6.564511499999999,0 5.2946301,6.564507299999999,0 5.2938066,6.5644898,0 5.293725,6.564488100000001,0 5.2937129,6.564487800000001,0 5.293351,6.564480099999999,0 5.2926269,6.5644649,0 5.2916077,6.5644223,0 5.2915425,6.5644106,0 5.2908996,6.5642944,0 5.2906675,6.564218400000001,0 5.2899797,6.5639932,0 5.2899554,6.563985299999999,0 5.2898227,6.563904900000001,0 5.2893589,6.563624,0 5.2892043,6.5635304,0 5.2888289,6.5633031,0 5.2886487,6.563126099999999,0 5.288409,6.5629111,0 5.2881025,6.562617900000001,0 5.2875748,6.5621252,0 5.2869151,6.5615093,0 5.2868289,6.561428799999999,0 5.2863119,6.5609451,0 5.286256,6.5608929,0 5.286124,6.5607697,0 5.2857941,6.560461799999999,0 5.2854645,6.560153799999999,0 5.285431,6.5601225,0 5.2850447,6.5597041,0 5.2849726,6.559625899999999,0 5.2848502,6.5594933,0 5.2841161,6.5586979,0 5.2840768,6.5586554,0 5.2836268,6.5581674,0 5.2832305,6.5577376,0 5.2830152,6.557504399999999,0 5.2827465,6.5572135,0 5.2826256,6.5570823,0 5.2823351,6.5567679,0 5.2822648,6.5567296,0 5.2817885,6.556470000000001,0 5.2811537,6.556124,0 5.2810301,6.5560566,0 5.2809957,6.5560361,0 5.2808805,6.5559676,0 5.2808403,6.555943799999999,0 5.280582,6.5557907,0 5.2801348,6.5555255,0 5.2798362,6.5553486,0 5.279752,6.555298699999999,0 5.2795965,6.5552066,0 5.2789405,6.5548182,0 5.2786634,6.554654,0 5.2777304,6.5541013,0 5.2769529,6.5536407,0 5.276936,6.5536307,0 5.2763222,6.5532872,0 5.2756913,6.552933999999999,0 5.2750385,6.552568600000001,0 5.2748879,6.5524836,0 5.2748247,6.552448499999999,0 5.2745667,6.552361300000001,0 5.2740852,6.5521986,0 5.2736013,6.5520351,0 5.273367,6.5519557,0 5.2730242,6.551839600000001,0 5.2726336,6.5517073,0 5.2721674,6.5515496,0 5.272013,6.551497399999999,0 5.2719958,6.5514923,0 5.2714998,6.551346400000001,0 5.271475,6.5513391,0 5.2713014,6.5512879,0 5.27026,6.550981,0 5.2695738,6.5507788,0 5.2693847,6.5507678,0 5.2693791,6.5507675,0 5.2690231,6.5507475,0 5.2683796,6.5507112,0 5.2683001,6.550706799999999,0 5.2677579,6.5506764,0 5.2675771,6.5506663,0 5.2673963,6.5506562,0 5.2668805,6.5506274,0 5.2668541,6.5506259,0 5.2666733,6.5506159,0 5.2664925,6.5506058,0 5.265763,6.5505651,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="results">
+			<name>UDO</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625694,6.5593083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>Primary school at Udo Community</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.3502472,6.475502800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd and Benin-Okumu Rd/Iyansan-Ora Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626229</longitude>
+						<latitude>6.5593305</latitude>
+						<altitude>0</altitude>
+						<heading>157.31992</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.659330499999999</north>
+							<south>6.4593305</south>
+							<east>5.4626229</east>
+							<west>5.2626229</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626229,6.5593305,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.3">
+					<name>Turn right at HDGL Contacts</name>
+					<description>Turn right at HDGL Contacts</description>
+					<LookAt>
+						<longitude>5.392807299999999</longitude>
+						<latitude>6.4987283</latitude>
+						<altitude>0</altitude>
+						<heading>98.27217</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.598728299999999</north>
+							<south>6.3987283</south>
+							<east>5.492807299999999</east>
+							<west>5.2928073</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.392807299999999,6.498728299999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.4">
+					<name>Continue straight past OLUWAYEMISI ADESUNLOYE</name>
+					<description>Continue straight past OLUWAYEMISI ADESUNLOYE</description>
+					<LookAt>
+						<longitude>5.3927586</longitude>
+						<latitude>6.4979786</latitude>
+						<altitude>0</altitude>
+						<heading>178.43843</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.597978599999999</north>
+							<south>6.3979786</south>
+							<east>5.492758599999999</east>
+							<west>5.2927586</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3927586,6.497978599999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.5">
+					<name>Turn right onto Benin-Okumu Rd/Iyansan-Ora Rd</name>
+					<description>Turn right onto Benin-Okumu Rd/Iyansan-Ora Rd</description>
+					<LookAt>
+						<longitude>5.3935277</longitude>
+						<latitude>6.4969667</latitude>
+						<altitude>0</altitude>
+						<heading>123.64981</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.596966699999999</north>
+							<south>6.3969667</south>
+							<east>5.4935277</east>
+							<west>5.2935277</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3935277,6.4969667,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626229,6.5593305,0 5.3626229,6.5593305,0 5.3627952,6.5589209,0 5.362869,6.5587225,0 5.36287,6.5587198,0 5.3629893,6.5583994,0 5.3631144,6.5580412,0 5.3631667,6.5579275,0 5.3632272,6.5577529,0 5.3635037,6.5570716,0 5.3635114,6.5570537,0 5.3636373,6.5567535,0 5.3641396,6.555585500000001,0 5.3647468,6.554262399999999,0 5.3648219,6.5540987,0 5.36521,6.553252899999999,0 5.3654854,6.5526203,0 5.3655572,6.5524552,0 5.3659164,6.551629700000001,0 5.3662038,6.5509693,0 5.3662757,6.5508042,0 5.3667786,6.549648499999999,0 5.367066,6.5489882,0 5.3672256,6.548621500000001,0 5.3673476,6.5483254,0 5.3674162,6.548159,0 5.3676906,6.5474932,0 5.3677593,6.5473267,0 5.3677748,6.547288900000001,0 5.3680206,6.5466955,0 5.3683918,6.5458349,0 5.3684631,6.5456696,0 5.3684799,6.5456308,0 5.3688365,6.5448035,0 5.3688928,6.5446785,0 5.3698732,6.542500499999999,0 5.3699274,6.542379700000001,0 5.3706643,6.540736799999999,0 5.3710488,6.539879600000001,0 5.3711626,6.5395796,0 5.3712265,6.539411299999999,0 5.3716735,6.538233199999999,0 5.3716905,6.5381883,0 5.3717428,6.5380671,0 5.3719757,6.537527,0 5.3720466,6.537361399999999,0 5.3720985,6.5372401,0 5.3722591,6.536864899999999,0 5.3725425,6.5362028,0 5.3725945,6.536081500000001,0 5.3728779,6.5354194,0 5.3729488,6.5352539,0 5.3729677,6.535209699999999,0 5.373303,6.5344263,0 5.3733219,6.5343821,0 5.3741013,6.5325614,0 5.3741532,6.5324401,0 5.3742241,6.5322746,0 5.3743658,6.5319435,0 5.3743847,6.5318994,0 5.3747909,6.5309504,0 5.3748098,6.5309063,0 5.375061,6.5303195,0 5.3752566,6.529542099999999,0 5.3753766,6.5290652,0 5.3755084,6.5285418,0 5.3755201,6.5284952,0 5.3755523,6.5283673,0 5.3757718,6.5274948,0 5.3757835,6.5274482,0 5.3759914,6.526622299999999,0 5.3760031,6.5265757,0 5.376167,6.5259243,0 5.3761787,6.5258778,0 5.3762109,6.5257499,0 5.3762627,6.525544100000001,0 5.3762263,6.525038,0 5.3762228,6.5249901,0 5.3761841,6.5244519,0 5.3761768,6.5243503,0 5.3761841,6.5243212,0 5.3761958,6.5242746,0 5.376228,6.524146700000001,0 5.3764037,6.5234488,0 5.3764154,6.5234022,0 5.3764343,6.523327,0 5.3771998,6.5226751,0 5.3773006,6.5225893,0 5.377636,6.522303700000001,0 5.3780642,6.5218252,0 5.3780963,6.5217893,0 5.379299,6.5204449,0 5.3793871,6.520346399999999,0 5.3795074,6.520212000000001,0 5.3796277,6.5200775,0 5.3803493,6.5192709,0 5.3809507,6.5185988,0 5.3809828,6.5185629,0 5.3810709,6.5184643,0 5.381552,6.517926599999999,0 5.3815841,6.517890699999999,0 5.3817558,6.5176988,0 5.3820239,6.517380900000001,0 5.3820549,6.5173441,0 5.3821401,6.517242999999999,0 5.3822563,6.5171052,0 5.38252,6.5167926,0 5.3826052,6.5166916,0 5.3827215,6.5165537,0 5.3827525,6.516516899999999,0 5.3828377,6.5164159,0 5.3833028,6.5158644,0 5.3838841,6.515175,0 5.3839151,6.5151382,0 5.3844166,6.5145436,0 5.3844806,6.5144376,0 5.3845489,6.5143246,0 5.3849214,6.5137077,0 5.3849463,6.5136665,0 5.3851891,6.5132644,0 5.3851945,6.5132423,0 5.3852483,6.5130208,0 5.3854069,6.5123682,0 5.3854182,6.512321499999999,0 5.3854918,6.5120185,0 5.3855768,6.5116688,0 5.3855881,6.5116221,0 5.3857466,6.5109694,0 5.385758,6.510922700000001,0 5.3857899,6.5107914,0 5.3859244,6.5104096,0 5.386028,6.510115399999999,0 5.3861476,6.5097759,0 5.3861636,6.5097305,0 5.3863907,6.509085800000001,0 5.3864195,6.50892,0 5.3864502,6.5087428,0 5.3864584,6.5086955,0 5.386481,6.508565499999999,0 5.3865732,6.5080338,0 5.386604,6.5078566,0 5.3868198,6.5066128,0 5.3872337,6.5050503,0 5.3873719,6.5045285,0 5.387418,6.504354499999999,0 5.3874303,6.504308100000001,0 5.3875224,6.5039602,0 5.3875562,6.5038326,0 5.3876145,6.5036123,0 5.3876483,6.5034848,0 5.3876781,6.503372199999999,0 5.3879019,6.5030122,0 5.3882824,6.5024,0 5.3883078,6.502359200000001,0 5.3888009,6.501662999999999,0 5.389045,6.501318300000001,0 5.3891152,6.501223,0 5.3895441,6.5006411,0 5.3896626,6.5005074,0 5.389941,6.500193399999999,0 5.390397,6.499735,0 5.3905977,6.499595500000001,0 5.3908661,6.499408999999999,0 5.3910093,6.499299,0 5.3910878,6.499262299999999,0 5.3915208,6.4990698,0 5.3915859,6.4990481,0 5.3923421,6.4987955,0 5.3928073,6.498728299999999,0 5.3928072,6.498581,0 5.3927535,6.4981572,0 5.3927586,6.497978599999999,0 5.3927627,6.4978341,0 5.3928033,6.4977332,0 5.3928485,6.4976209,0 5.3929907,6.4973917,0 5.3930914,6.497283899999999,0 5.393165,6.4972051,0 5.393393,6.497055899999999,0 5.3935277,6.4969667,0 5.393451,6.4968474,0 5.393142,6.496362,0 5.3930512,6.4962335,0 5.3927532,6.495811699999999,0 5.3926042,6.4955596,0 5.3925794,6.495517599999999,0 5.3924173,6.4952868,0 5.3919174,6.4945019,0 5.3918853,6.4944514,0 5.3909464,6.492983899999999,0 5.3909094,6.492926,0 5.3908453,6.4928348,0 5.3902367,6.4919675,0 5.3902253,6.4919487,0 5.3901476,6.4918209,0 5.3900795,6.491724,0 5.3897096,6.491125900000001,0 5.3897082,6.4911239,0 5.3896469,6.491035599999999,0 5.3896454,6.4910335,0 5.3892958,6.4905293,0 5.3892398,6.4904408,0 5.3892023,6.4903813,0 5.3892,6.4903777,0 5.389143,6.4902887,0 5.3888103,6.489769000000001,0 5.3884635,6.489226,0 5.3884257,6.4891668,0 5.388358,6.4890801,0 5.3878129,6.488381900000001,0 5.3878029,6.488369699999999,0 5.3876882,6.4882306,0 5.3876783,6.4882186,0 5.3874832,6.4880385,0 5.387064,6.4876827,0 5.3868637,6.4875293,0 5.386724,6.487422099999999,0 5.3867203,6.4874197,0 5.3861213,6.4870285,0 5.3856763,6.486706699999999,0 5.3855219,6.486595,0 5.3851954,6.4863471,0 5.3849862,6.4862165,0 5.3847798,6.4861002,0 5.3847403,6.4860779,0 5.3844776,6.4859587,0 5.3843537,6.4859238,0 5.3842255,6.4858947,0 5.3840994,6.4858654,0 5.3840082,6.485852099999999,0 5.3832357,6.4857774,0 5.3825943,6.485726099999999,0 5.3813656,6.4855841,0 5.3811685,6.485541499999999,0 5.3806253,6.4854242,0 5.3804692,6.4853622,0 5.3803034,6.485296300000001,0 5.3798021,6.4850824,0 5.3792724,6.484856500000001,0 5.3790595,6.484768,0 5.3787418,6.4846609,0 5.3785996,6.4846082,0 5.377927,6.4843544,0 5.3777611,6.484290799999999,0 5.3775515,6.484210500000001,0 5.3772088,6.4840581,0 5.3765811,6.4838556,0 5.3761762,6.4836982,0 5.3756209,6.483482499999999,0 5.3753902,6.4834079,0 5.3753276,6.4833862,0 5.3753255,6.4833855,0 5.3737896,6.4828522,0 5.3737875,6.4828515,0 5.3736166,6.4827922,0 5.3736092,6.4827896,0 5.3732391,6.4826616,0 5.3725525,6.482400500000001,0 5.3722611,6.4822863,0 5.3714583,6.481971700000001,0 5.3714225,6.4819541,0 5.3714205,6.4819531,0 5.371173,6.4818314,0 5.3709297,6.4817414,0 5.3704825,6.481545500000001,0 5.3704593,6.4815341,0 5.3699768,6.4812974,0 5.369942,6.4812811,0 5.36994,6.4812802,0 5.3697651,6.4811981,0 5.3697329,6.481179900000001,0 5.3689457,6.480736,0 5.3684735,6.4804696,0 5.3679897,6.4802244,0 5.3674058,6.4799285,0 5.3673486,6.4798866,0 5.3670295,6.4797257,0 5.3668117,6.4796252,0 5.3664142,6.4794419,0 5.3662465,6.4793748,0 5.3657948,6.4791942,0 5.3652386,6.4789713,0 5.3650707,6.478904,0 5.3649028,6.4788367,0 5.3642424,6.4785721,0 5.3642306,6.478569999999999,0 5.3634243,6.4783115,0 5.3626377,6.478032400000001,0 5.3623386,6.4779219,0 5.3621506,6.4778818,0 5.3615604,6.4777829,0 5.3614462,6.4777796,0 5.3603605,6.477748,0 5.360169,6.4777433,0 5.3596367,6.4777302,0 5.3595536,6.4777282,0 5.3589894,6.477690499999999,0 5.3587342,6.4776734,0 5.358555,6.4776429,0 5.3582913,6.477598,0 5.3576979,6.477496799999999,0 5.3575796,6.4774668,0 5.3575027,6.477447299999999,0 5.3573128,6.4773991,0 5.3569602,6.477309600000001,0 5.3568369,6.4772745,0 5.3566517,6.4772218,0 5.3563274,6.4771294,0 5.3563035,6.477123,0 5.3559539,6.4770298,0 5.355916,6.4770197,0 5.3551951,6.4768274,0 5.3550816,6.4767906,0 5.354049,6.476455899999999,0 5.3540116,6.4764438,0 5.3532007,6.476181,0 5.3531521,6.4761624,0 5.3531377,6.4761569,0 5.3523221,6.4758446,0 5.3518154,6.4756506,0 5.3515583,6.4755522,0 5.3510904,6.475345199999999,0 5.3509386,6.475278,0 5.3504457,6.4750599,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="results">
+			<name>ORA</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625694,6.5593083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>ECOWAS father house</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.3929056,6.498811099999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626229</longitude>
+						<latitude>6.5593305</latitude>
+						<altitude>0</altitude>
+						<heading>157.31992</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.659330499999999</north>
+							<south>6.4593305</south>
+							<east>5.4626229</east>
+							<west>5.2626229</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626229,6.5593305,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626229,6.5593305,0 5.3626229,6.5593305,0 5.3627952,6.5589209,0 5.362869,6.5587225,0 5.36287,6.5587198,0 5.3629893,6.5583994,0 5.3631144,6.5580412,0 5.3631667,6.5579275,0 5.3632272,6.5577529,0 5.3635037,6.5570716,0 5.3635114,6.5570537,0 5.3636373,6.5567535,0 5.3641396,6.555585500000001,0 5.3647468,6.554262399999999,0 5.3648219,6.5540987,0 5.36521,6.553252899999999,0 5.3654854,6.5526203,0 5.3655572,6.5524552,0 5.3659164,6.551629700000001,0 5.3662038,6.5509693,0 5.3662757,6.5508042,0 5.3667786,6.549648499999999,0 5.367066,6.5489882,0 5.3672256,6.548621500000001,0 5.3673476,6.5483254,0 5.3674162,6.548159,0 5.3676906,6.5474932,0 5.3677593,6.5473267,0 5.3677748,6.547288900000001,0 5.3680206,6.5466955,0 5.3683918,6.5458349,0 5.3684631,6.5456696,0 5.3684799,6.5456308,0 5.3688365,6.5448035,0 5.3688928,6.5446785,0 5.3698732,6.542500499999999,0 5.3699274,6.542379700000001,0 5.3706643,6.540736799999999,0 5.3710488,6.539879600000001,0 5.3711626,6.5395796,0 5.3712265,6.539411299999999,0 5.3716735,6.538233199999999,0 5.3716905,6.5381883,0 5.3717428,6.5380671,0 5.3719757,6.537527,0 5.3720466,6.537361399999999,0 5.3720985,6.5372401,0 5.3722591,6.536864899999999,0 5.3725425,6.5362028,0 5.3725945,6.536081500000001,0 5.3728779,6.5354194,0 5.3729488,6.5352539,0 5.3729677,6.535209699999999,0 5.373303,6.5344263,0 5.3733219,6.5343821,0 5.3741013,6.5325614,0 5.3741532,6.5324401,0 5.3742241,6.5322746,0 5.3743658,6.5319435,0 5.3743847,6.5318994,0 5.3747909,6.5309504,0 5.3748098,6.5309063,0 5.375061,6.5303195,0 5.3752566,6.529542099999999,0 5.3753766,6.5290652,0 5.3755084,6.5285418,0 5.3755201,6.5284952,0 5.3755523,6.5283673,0 5.3757718,6.5274948,0 5.3757835,6.5274482,0 5.3759914,6.526622299999999,0 5.3760031,6.5265757,0 5.376167,6.5259243,0 5.3761787,6.5258778,0 5.3762109,6.5257499,0 5.3762627,6.525544100000001,0 5.3762263,6.525038,0 5.3762228,6.5249901,0 5.3761841,6.5244519,0 5.3761768,6.5243503,0 5.3761841,6.5243212,0 5.3761958,6.5242746,0 5.376228,6.524146700000001,0 5.3764037,6.5234488,0 5.3764154,6.5234022,0 5.3764343,6.523327,0 5.3771998,6.5226751,0 5.3773006,6.5225893,0 5.377636,6.522303700000001,0 5.3780642,6.5218252,0 5.3780963,6.5217893,0 5.379299,6.5204449,0 5.3793871,6.520346399999999,0 5.3795074,6.520212000000001,0 5.3796277,6.5200775,0 5.3803493,6.5192709,0 5.3809507,6.5185988,0 5.3809828,6.5185629,0 5.3810709,6.5184643,0 5.381552,6.517926599999999,0 5.3815841,6.517890699999999,0 5.3817558,6.5176988,0 5.3820239,6.517380900000001,0 5.3820549,6.5173441,0 5.3821401,6.517242999999999,0 5.3822563,6.5171052,0 5.38252,6.5167926,0 5.3826052,6.5166916,0 5.3827215,6.5165537,0 5.3827525,6.516516899999999,0 5.3828377,6.5164159,0 5.3833028,6.5158644,0 5.3838841,6.515175,0 5.3839151,6.5151382,0 5.3844166,6.5145436,0 5.3844806,6.5144376,0 5.3845489,6.5143246,0 5.3849214,6.5137077,0 5.3849463,6.5136665,0 5.3851891,6.5132644,0 5.3851945,6.5132423,0 5.3852483,6.5130208,0 5.3854069,6.5123682,0 5.3854182,6.512321499999999,0 5.3854918,6.5120185,0 5.3855768,6.5116688,0 5.3855881,6.5116221,0 5.3857466,6.5109694,0 5.385758,6.510922700000001,0 5.3857899,6.5107914,0 5.3859244,6.5104096,0 5.386028,6.510115399999999,0 5.3861476,6.5097759,0 5.3861636,6.5097305,0 5.3863907,6.509085800000001,0 5.3864195,6.50892,0 5.3864502,6.5087428,0 5.3864584,6.5086955,0 5.386481,6.508565499999999,0 5.3865732,6.5080338,0 5.386604,6.5078566,0 5.3868198,6.5066128,0 5.3872337,6.5050503,0 5.3873719,6.5045285,0 5.387418,6.504354499999999,0 5.3874303,6.504308100000001,0 5.3875224,6.5039602,0 5.3875562,6.5038326,0 5.3876145,6.5036123,0 5.3876483,6.5034848,0 5.3876781,6.503372199999999,0 5.3879019,6.5030122,0 5.3882824,6.5024,0 5.3883078,6.502359200000001,0 5.3888009,6.501662999999999,0 5.389045,6.501318300000001,0 5.3891152,6.501223,0 5.3895441,6.5006411,0 5.3896626,6.5005074,0 5.389941,6.500193399999999,0 5.390397,6.499735,0 5.3905977,6.499595500000001,0 5.3908661,6.499408999999999,0 5.3910093,6.499299,0 5.3910878,6.499262299999999,0 5.3915208,6.4990698,0 5.3915859,6.4990481,0 5.3923421,6.4987955,0 5.3928073,6.498728299999999,0 5.3928858,6.498716900000001,0 5.3929075,6.4987173,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="results">
+			<name>USE</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625694,6.5593083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>Uwa St</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.6120861,6.3544389,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Okokpon-Iguoriakhi-Evbodia Rd</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head southeast on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626229</longitude>
+						<latitude>6.5593305</latitude>
+						<altitude>0</altitude>
+						<heading>157.31992</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.659330499999999</north>
+							<south>6.4593305</south>
+							<east>5.4626229</east>
+							<west>5.2626229</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626229,6.5593305,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.3">
+					<name>At the roundabout, take the 1st exit onto Ore Oghene Rd/Siluko Rd</name>
+					<description>At the roundabout, take the 1st exit onto Ore Oghene Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.5990642</longitude>
+						<latitude>6.3589394</latitude>
+						<altitude>0</altitude>
+						<heading>107.74232</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.458939399999999</north>
+							<south>6.2589394</south>
+							<east>5.6990642</east>
+							<west>5.4990642</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.5990642,6.3589394,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.4">
+					<name>Turn left at SuperWorld Consut limited onto Second West Circular Rd</name>
+					<description>Turn left at SuperWorld Consut limited onto Second West Circular Rd</description>
+					<LookAt>
+						<longitude>5.6083152</longitude>
+						<latitude>6.3466869</latitude>
+						<altitude>0</altitude>
+						<heading>114.03683</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.4466869</north>
+							<south>6.2466869</south>
+							<east>5.708315199999999</east>
+							<west>5.5083152</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.6083152,6.3466869,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.5">
+					<name>Turn right at the pharmacy onto Uwa St</name>
+					<description>Turn right at the pharmacy onto Uwa St</description>
+					<LookAt>
+						<longitude>5.611987099999999</longitude>
+						<latitude>6.3545082</latitude>
+						<altitude>0</altitude>
+						<heading>23.97772</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.454508199999999</north>
+							<south>6.2545082</south>
+							<east>5.711987099999999</east>
+							<west>5.5119871</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.611987099999999,6.3545082,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626229,6.5593305,0 5.3626229,6.5593305,0 5.3627952,6.5589209,0 5.362869,6.5587225,0 5.36287,6.5587198,0 5.3629893,6.5583994,0 5.3631144,6.5580412,0 5.3631667,6.5579275,0 5.3632272,6.5577529,0 5.3635037,6.5570716,0 5.3635114,6.5570537,0 5.3636373,6.5567535,0 5.3641396,6.555585500000001,0 5.3647468,6.554262399999999,0 5.3648219,6.5540987,0 5.36521,6.553252899999999,0 5.3654854,6.5526203,0 5.3655572,6.5524552,0 5.3659164,6.551629700000001,0 5.3662038,6.5509693,0 5.3662757,6.5508042,0 5.3667786,6.549648499999999,0 5.367066,6.5489882,0 5.3672256,6.548621500000001,0 5.3673476,6.5483254,0 5.3674162,6.548159,0 5.3676906,6.5474932,0 5.3677593,6.5473267,0 5.3677748,6.547288900000001,0 5.3680206,6.5466955,0 5.3683918,6.5458349,0 5.3684631,6.5456696,0 5.3684799,6.5456308,0 5.3688365,6.5448035,0 5.3688928,6.5446785,0 5.3698732,6.542500499999999,0 5.3699274,6.542379700000001,0 5.3706643,6.540736799999999,0 5.3710488,6.539879600000001,0 5.3711626,6.5395796,0 5.3712265,6.539411299999999,0 5.3716735,6.538233199999999,0 5.3716905,6.5381883,0 5.3717428,6.5380671,0 5.3719757,6.537527,0 5.3720466,6.537361399999999,0 5.3720985,6.5372401,0 5.3722591,6.536864899999999,0 5.3725425,6.5362028,0 5.3725945,6.536081500000001,0 5.3728779,6.5354194,0 5.3729488,6.5352539,0 5.3729677,6.535209699999999,0 5.373303,6.5344263,0 5.3733219,6.5343821,0 5.3741013,6.5325614,0 5.3741532,6.5324401,0 5.3742241,6.5322746,0 5.3743658,6.5319435,0 5.3743847,6.5318994,0 5.3747909,6.5309504,0 5.3748098,6.5309063,0 5.375061,6.5303195,0 5.3752566,6.529542099999999,0 5.3753766,6.5290652,0 5.3755084,6.5285418,0 5.3755201,6.5284952,0 5.3755523,6.5283673,0 5.3757718,6.5274948,0 5.3757835,6.5274482,0 5.3759914,6.526622299999999,0 5.3760031,6.5265757,0 5.376167,6.5259243,0 5.3761787,6.5258778,0 5.3762109,6.5257499,0 5.3762627,6.525544100000001,0 5.3762263,6.525038,0 5.3762228,6.5249901,0 5.3761841,6.5244519,0 5.3761768,6.5243503,0 5.3761841,6.5243212,0 5.3761958,6.5242746,0 5.376228,6.524146700000001,0 5.3764037,6.5234488,0 5.3764154,6.5234022,0 5.3764343,6.523327,0 5.3771998,6.5226751,0 5.3773006,6.5225893,0 5.377636,6.522303700000001,0 5.3780642,6.5218252,0 5.3780963,6.5217893,0 5.379299,6.5204449,0 5.3793871,6.520346399999999,0 5.3795074,6.520212000000001,0 5.3796277,6.5200775,0 5.3803493,6.5192709,0 5.3809507,6.5185988,0 5.3809828,6.5185629,0 5.3810709,6.5184643,0 5.381552,6.517926599999999,0 5.3815841,6.517890699999999,0 5.3817558,6.5176988,0 5.3820239,6.517380900000001,0 5.3820549,6.5173441,0 5.3821401,6.517242999999999,0 5.3822563,6.5171052,0 5.38252,6.5167926,0 5.3826052,6.5166916,0 5.3827215,6.5165537,0 5.3827525,6.516516899999999,0 5.3828377,6.5164159,0 5.3833028,6.5158644,0 5.3838841,6.515175,0 5.3839151,6.5151382,0 5.3844166,6.5145436,0 5.3844806,6.5144376,0 5.3845489,6.5143246,0 5.3849214,6.5137077,0 5.3849463,6.5136665,0 5.3851891,6.5132644,0 5.3851945,6.5132423,0 5.3852483,6.5130208,0 5.3854069,6.5123682,0 5.3854182,6.512321499999999,0 5.3854918,6.5120185,0 5.3855768,6.5116688,0 5.3855881,6.5116221,0 5.3857466,6.5109694,0 5.385758,6.510922700000001,0 5.3857899,6.5107914,0 5.3859244,6.5104096,0 5.386028,6.510115399999999,0 5.3861476,6.5097759,0 5.3861636,6.5097305,0 5.3863907,6.509085800000001,0 5.3864195,6.50892,0 5.3864502,6.5087428,0 5.3864584,6.5086955,0 5.386481,6.508565499999999,0 5.3865732,6.5080338,0 5.386604,6.5078566,0 5.3868198,6.5066128,0 5.3872337,6.5050503,0 5.3873719,6.5045285,0 5.387418,6.504354499999999,0 5.3874303,6.504308100000001,0 5.3875224,6.5039602,0 5.3875562,6.5038326,0 5.3876145,6.5036123,0 5.3876483,6.5034848,0 5.3876781,6.503372199999999,0 5.3879019,6.5030122,0 5.3882824,6.5024,0 5.3883078,6.502359200000001,0 5.3888009,6.501662999999999,0 5.389045,6.501318300000001,0 5.3891152,6.501223,0 5.3895441,6.5006411,0 5.3896626,6.5005074,0 5.389941,6.500193399999999,0 5.390397,6.499735,0 5.3905977,6.499595500000001,0 5.3908661,6.499408999999999,0 5.3910093,6.499299,0 5.3910878,6.499262299999999,0 5.3915208,6.4990698,0 5.3915859,6.4990481,0 5.3923421,6.4987955,0 5.3928073,6.498728299999999,0 5.3928858,6.498716900000001,0 5.3934778,6.498728900000001,0 5.3936341,6.498741,0 5.394717,6.4988248,0 5.3951616,6.4988613,0 5.3954305,6.4988834,0 5.3959454,6.4989172,0 5.3964873,6.4989527,0 5.3973922,6.4989738,0 5.3976299,6.4989794,0 5.3981149,6.4989431,0 5.39858,6.4989084,0 5.3986552,6.4988938,0 5.3988329,6.498859400000001,0 5.3998258,6.4986672,0 5.399899,6.498653,0 5.4006097,6.4985153,0 5.4007156,6.498494799999999,0 5.4009651,6.4984466,0 5.4012456,6.498392399999999,0 5.4013199,6.4983752,0 5.4019561,6.4982278,0 5.4020251,6.4982118,0 5.402544,6.4980917,0 5.4029067,6.4980078,0 5.4033691,6.497900800000001,0 5.4040012,6.4977545,0 5.4042516,6.4976979,0 5.4047841,6.4975716,0 5.4051362,6.4974881,0 5.4052326,6.4974652,0 5.4058406,6.497320800000001,0 5.4061119,6.4972564,0 5.4061927,6.4972372,0 5.406991,6.497047800000001,0 5.407073,6.4970284,0 5.4072708,6.4969815,0 5.4076005,6.4968998,0 5.4079517,6.4968127,0 5.40883,6.4965949,0 5.4088357,6.4965935,0 5.4089224,6.4965771,0 5.4090077,6.4965609,0 5.4098164,6.4964076,0 5.4098973,6.496395299999999,0 5.4099891,6.4963814,0 5.4100763,6.4963682,0 5.4107881,6.496259899999999,0 5.4111533,6.4962356,0 5.4112441,6.4962296,0 5.4120878,6.496173700000001,0 5.4123268,6.496165999999999,0 5.4124182,6.496163000000001,0 5.413142,6.496139400000001,0 5.413411,6.4961307,0 5.4135038,6.4961277,0 5.4135756,6.496125400000001,0 5.4149791,6.4961204,0 5.415314,6.4961143,0 5.416036,6.496101199999999,0 5.4166155,6.4960971,0 5.4170546,6.4960813,0 5.4174842,6.496043899999999,0 5.417487,6.4960436,0 5.4179229,6.4959791,0 5.4179675,6.4959725,0 5.4180208,6.495961299999999,0 5.4181979,6.495924,0 5.4182587,6.4959112,0 5.4185363,6.4958219,0 5.4190482,6.4956189,0 5.4191225,6.495589499999999,0 5.4191302,6.4955864,0 5.4196031,6.4953614,0 5.4201743,6.495060699999999,0 5.420343,6.494975500000001,0 5.4204128,6.494940199999999,0 5.4206656,6.4948123,0 5.4217017,6.4942881,0 5.4217948,6.494241000000001,0 5.423892,6.4931802,0 5.4240534,6.4930986,0 5.4241188,6.4930655,0 5.4250212,6.492608799999999,0 5.4252787,6.492478600000001,0 5.4253439,6.4924457,0 5.4254078,6.4924134,0 5.4255053,6.4923642,0 5.4261507,6.4920381,0 5.4276643,6.4912734,0 5.4277643,6.4912229,0 5.4285712,6.490815300000001,0 5.4286314,6.4907849,0 5.429378,6.490407699999999,0 5.4294391,6.4903783,0 5.4305846,6.4898288,0 5.4306026,6.489821199999999,0 5.4308861,6.4897024,0 5.431301,6.4895222,0 5.4320488,6.4891005,0 5.432836,6.488656500000001,0 5.4333083,6.4883901,0 5.4336231,6.488212600000001,0 5.4341125,6.487936600000001,0 5.4344245,6.4877964,0 5.4345894,6.487722200000001,0 5.4350842,6.487499799999999,0 5.435579,6.4872774,0 5.4377231,6.4863137,0 5.4384142,6.4860031,0 5.4385051,6.4859622,0 5.4393298,6.4855915,0 5.4394037,6.485558300000001,0 5.4410531,6.4848169,0 5.441144,6.484776,0 5.441218,6.484742800000001,0 5.4413223,6.484695899999999,0 5.4418594,6.484409299999999,0 5.4419473,6.4843624,0 5.4421783,6.4842391,0 5.4426567,6.483983799999999,0 5.4427447,6.4839369,0 5.4437643,6.4833929,0 5.4437731,6.483388199999999,0 5.4438611,6.4833412,0 5.4439326,6.483303099999999,0 5.4441814,6.4831703,0 5.444818,6.482830599999999,0 5.4448968,6.4828116,0 5.4459522,6.482556600000001,0 5.4460896,6.4824911,0 5.446342,6.482428000000001,0 5.4464966,6.4823773,0 5.4468302,6.482268099999999,0 5.4472401,6.482106700000001,0 5.4473988,6.4820442,0 5.4474086,6.4820411,0 5.4482699,6.4817649,0 5.4487868,6.4815992,0 5.4489116,6.4815592,0 5.4492013,6.481473900000001,0 5.4493997,6.4813886,0 5.4496408,6.481304200000001,0 5.449963,6.4811914,0 5.4506866,6.4810126,0 5.4510198,6.4809302,0 5.4512143,6.480885499999999,0 5.4513907,6.480845,0 5.4517386,6.480765,0 5.4521033,6.4808061,0 5.4522831,6.4808264,0 5.4525661,6.4808582,0 5.4526434,6.4808582,0 5.4528244,6.4808582,0 5.4529861,6.4808582,0 5.4533674,6.4808582,0 5.4535485,6.4808582,0 5.4546346,6.4808582,0 5.4547058,6.4808582,0 5.4548156,6.4808582,0 5.4555397,6.4808582,0 5.4562638,6.4808582,0 5.4564448,6.4808582,0 5.4569879,6.4808582,0 5.4571152,6.4808582,0 5.4571685,6.4808644,0 5.4577079,6.4809271,0 5.4578877,6.480948,0 5.4580675,6.4809689,0 5.4587867,6.4810525,0 5.4589664,6.481073399999999,0 5.4601609,6.481212299999999,0 5.4604048,6.4812407,0 5.4605338,6.48126,0 5.4615311,6.4813414,0 5.4617115,6.4813562,0 5.4624332,6.4814151,0 5.4627941,6.4814446,0 5.4629744,6.4814594,0 5.4630568,6.4814661,0 5.4640585,6.481525100000001,0 5.4646007,6.4815571,0 5.4646081,6.4815576,0 5.4653226,6.4816114,0 5.4655032,6.481625,0 5.4656503,6.4816361,0 5.4673084,6.4817581,0 5.46785,6.481797499999999,0 5.4679396,6.4818041,0 5.4684155,6.4818388,0 5.4687528,6.481861900000001,0 5.4689334,6.481874200000001,0 5.469023,6.4818803,0 5.4694751,6.4819113,0 5.4696266,6.4819217,0 5.4699258,6.481944500000001,0 5.4700168,6.4819514,0 5.4703777,6.481978800000001,0 5.4704673,6.4819857,0 5.4705582,6.4819926,0 5.4707387,6.4820063,0 5.4709192,6.4820201,0 5.4713732,6.4820547,0 5.4716412,6.482075000000001,0 5.472558,6.4821441,0 5.4727245,6.482151099999999,0 5.4729053,6.4821587,0 5.4729951,6.4821625,0 5.4730971,6.4821668,0 5.4736279,6.4822045,0 5.473989,6.4822301,0 5.4740787,6.4822364,0 5.4741696,6.4822429,0 5.4742946,6.4822517,0 5.4747115,6.4822778,0 5.4752535,6.482311700000001,0 5.4753432,6.4823173,0 5.4754342,6.482323,0 5.4756149,6.4823343,0 5.4757045,6.4823398,0 5.4757955,6.4823455,0 5.475886,6.4823512,0 5.4761474,6.4823212,0 5.4761554,6.4823193,0 5.4763182,6.482281299999999,0 5.476417,6.482250299999999,0 5.476504,6.482222999999999,0 5.4766478,6.482177999999999,0 5.4767952,6.4821027,0 5.476834,6.4820791,0 5.4770211,6.4819654,0 5.4771273,6.4818706,0 5.477262,6.4817504,0 5.4772967,6.4817193,0 5.4773265,6.4816884,0 5.4773896,6.481623,0 5.4777518,6.4812478,0 5.4779792,6.4810679,0 5.4780506,6.481011499999999,0 5.4781005,6.480972,0 5.4781935,6.480901100000001,0 5.4783361,6.4807923,0 5.4787343,6.4805776,0 5.4788144,6.4805344,0 5.4788876,6.4804949,0 5.4791771,6.4803205,0 5.4793833,6.480162699999999,0 5.4794126,6.4801328,0 5.4795153,6.4800278,0 5.4795349,6.4800006,0 5.4795873,6.479928,0 5.4796613,6.4798254,0 5.4797779,6.4796064,0 5.4798569,6.479374499999999,0 5.4798618,6.4793643,0 5.4799784,6.4791213,0 5.479981,6.4791159,0 5.480021,6.479041199999999,0 5.4801152,6.4788653,0 5.4803084,6.4786168,0 5.4803247,6.4785961,0 5.4804134,6.4784837,0 5.48053,6.4783662,0 5.4805651,6.478327799999999,0 5.4809156,6.477946,0 5.4809313,6.4779293,0 5.4809926,6.4778641,0 5.4819199,6.476877900000001,0 5.4819328,6.4768641,0 5.4819764,6.4768085,0 5.4821437,6.476595199999999,0 5.4822091,6.476511900000001,0 5.4825179,6.4762051,0 5.4825739,6.4761495,0 5.4825821,6.4761426,0 5.482675,6.4760642,0 5.4827997,6.475980800000001,0 5.4828298,6.4759607,0 5.4828762,6.475934199999999,0 5.4830835,6.4758156,0 5.4831141,6.4758032,0 5.4834374,6.4756726,0 5.4836245,6.4756215,0 5.4837111,6.4755978,0 5.4837892,6.4755764,0 5.4840862,6.4755172,0 5.4844607,6.4754625,0 5.4848721,6.4754095,0 5.4855902,6.4753171,0 5.4856438,6.475310199999999,0 5.4856793,6.475305999999999,0 5.4874063,6.4751033,0 5.4886072,6.474978200000001,0 5.4891869,6.4749069,0 5.489276,6.474896,0 5.4893665,6.4748848,0 5.4897419,6.4748387,0 5.4904442,6.4747507,0 5.4907652,6.474710399999999,0 5.4912268,6.4746558,0 5.4915351,6.474604500000001,0 5.4918754,6.474536499999999,0 5.4922304,6.4744655,0 5.4923453,6.474442500000001,0 5.493017,6.474259,0 5.493091,6.4742388,0 5.493105,6.4742351,0 5.49328,6.474189300000001,0 5.4936172,6.474100900000001,0 5.4941538,6.4739547,0 5.494415,6.473883600000001,0 5.4944856,6.4738644,0 5.4945029,6.4738595,0 5.4950424,6.473708,0 5.4953735,6.473613500000001,0 5.4958954,6.473464599999999,0 5.4959818,6.47344,0 5.4964174,6.4733157,0 5.4965037,6.4732911,0 5.4971503,6.4731066,0 5.4976366,6.472972900000001,0 5.4977232,6.4729491,0 5.4979493,6.4728869,0 5.4979856,6.4728773,0 5.4981606,6.4728309,0 5.4982473,6.4728079,0 5.4984271,6.472760200000001,0 5.498509,6.4727336,0 5.4986811,6.4726778,0 5.4987664,6.47265,0 5.4995413,6.4723982,0 5.4997134,6.4723423,0 5.4997987,6.472314599999999,0 5.4998854,6.472286400000001,0 5.4999378,6.4722694,0 5.5002249,6.472161700000001,0 5.5005447,6.4720417,0 5.5006474,6.4720023,0 5.5010702,6.47184,0 5.5011338,6.4718156,0 5.5012388,6.4717745,0 5.5013223,6.4717419,0 5.501744,6.471577,0 5.5020361,6.4714627,0 5.5030368,6.4710586,0 5.5032544,6.470969900000001,0 5.5033374,6.470936,0 5.5034218,6.470901599999999,0 5.5036856,6.470794,0 5.5040746,6.4706384,0 5.5045782,6.4704235,0 5.5049273,6.470283100000001,0 5.5050105,6.4702496,0 5.5051044,6.4702118,0 5.5054821,6.4700659,0 5.5057694,6.4699537,0 5.505853,6.469920999999999,0 5.5059378,6.4698879,0 5.5060777,6.4698333,0 5.506188,6.469784699999999,0 5.5062714,6.469748,0 5.5064053,6.469689,0 5.5064374,6.4696767,0 5.5067878,6.469543,0 5.5069428,6.469479300000001,0 5.5070258,6.4694451,0 5.5071101,6.4694105,0 5.5074446,6.4692729,0 5.5075276,6.4692388,0 5.5075287,6.4692383,0 5.5081189,6.4690107,0 5.5081275,6.4690074,0 5.508783,6.4687241,0 5.509115,6.4685807,0 5.5091974,6.4685451,0 5.5092299,6.468531,0 5.5092808,6.468508699999999,0 5.5096592,6.4683434,0 5.5097799,6.468296200000001,0 5.5098635,6.4682635,0 5.5101168,6.468164400000001,0 5.5103275,6.468082,0 5.5107842,6.4679152,0 5.5111297,6.467775199999999,0 5.5112129,6.467741500000001,0 5.5112973,6.4677073,0 5.5115097,6.4676212,0 5.5120837,6.4673845,0 5.5125258,6.467219400000001,0 5.5128133,6.4671153,0 5.5128977,6.4670848,0 5.5131246,6.4670026,0 5.5136288,6.4668174,0 5.5146224,6.4664682,0 5.5146871,6.466446100000001,0 5.5148583,6.4663877,0 5.5156524,6.4661169,0 5.5157141,6.4660951,0 5.5157988,6.4660653,0 5.5158847,6.466035,0 5.5167925,6.4657146,0 5.5169093,6.4656769,0 5.5169947,6.4656493,0 5.5176278,6.4654448,0 5.5182063,6.4652815,0 5.5182683,6.465264000000001,0 5.5182935,6.465255300000001,0 5.5195443,6.464823600000001,0 5.5201764,6.4646119,0 5.5202616,6.4645834,0 5.5204621,6.464516300000001,0 5.520693,6.464445400000001,0 5.5211296,6.4643115,0 5.5216249,6.4641537,0 5.5230416,6.4637034,0 5.5231079,6.4636822,0 5.5231934,6.4636548,0 5.5239693,6.463406199999999,0 5.5240548,6.4633788,0 5.5243765,6.463275699999999,0 5.5246572,6.4631818,0 5.5249139,6.463096,0 5.5250004,6.463067099999999,0 5.5251327,6.4630228,0 5.5257447,6.4628505,0 5.526039,6.4627527,0 5.5261242,6.4627244,0 5.5262107,6.462695600000001,0 5.5272407,6.4623535,0 5.527326,6.4623252,0 5.5274124,6.4622965,0 5.5275151,6.4622624,0 5.5280369,6.4620946,0 5.5281862,6.462045699999999,0 5.5282728,6.4620174,0 5.5287233,6.46187,0 5.5294738,6.461616,0 5.5296452,6.461558,0 5.5297302,6.4615293,0 5.5299261,6.461463,0 5.5311072,6.4611066,0 5.5316294,6.4609356,0 5.5319045,6.4608455,0 5.5324831,6.460656000000001,0 5.5329275,6.460484,0 5.5329526,6.4604743,0 5.5331584,6.4603806,0 5.5332571,6.4603356,0 5.5332818,6.460324399999999,0 5.5334145,6.4602469,0 5.5338692,6.4599813,0 5.5342252,6.459756099999999,0 5.534586,6.459462399999999,0 5.5346102,6.4594412,0 5.5348002,6.4592747,0 5.5348818,6.4592033,0 5.5349747,6.459121900000001,0 5.5352716,6.4588572,0 5.5354664,6.458666300000001,0 5.5355644,6.458570199999999,0 5.5359121,6.458257000000001,0 5.5359924,6.4581724,0 5.5362843,6.457865,0 5.5365554,6.4576088,0 5.5367012,6.457470999999999,0 5.5367862,6.4573904,0 5.5372387,6.4569611,0 5.5372401,6.4569598,0 5.5373667,6.456834000000001,0 5.5377729,6.4564303,0 5.5379997,6.4561912,0 5.5381409,6.4560424,0 5.5383727,6.4557991,0 5.5385741,6.4555877,0 5.5390455,6.455134799999999,0 5.5390662,6.4551149,0 5.5395911,6.4545463,0 5.5397762,6.4543372,0 5.5400367,6.4540549,0 5.5404896,6.453583200000001,0 5.5405822,6.4534788,0 5.5405875,6.4534728,0 5.5409407,6.4530735,0 5.540955,6.453058,0 5.5415335,6.4524187,0 5.5415598,6.4523885,0 5.5415761,6.452371300000001,0 5.5421445,6.4517712,0 5.5423049,6.451586699999999,0 5.5426301,6.4512127,0 5.5428679,6.4509392,0 5.5429504,6.4508443,0 5.5429587,6.450834700000001,0 5.5437776,6.449962599999999,0 5.5440497,6.4496499,0 5.5440821,6.4496126,0 5.5440851,6.4496084,0 5.5443101,6.4492871,0 5.5445111,6.448964100000001,0 5.5447309,6.4486182,0 5.5448516,6.448389000000001,0 5.5449101,6.448277900000001,0 5.5450629,6.4479876,0 5.5453197,6.4474158,0 5.5455744,6.446834800000001,0 5.5457036,6.446554099999999,0 5.5457127,6.4465343,0 5.5460333,6.445837399999999,0 5.5460894,6.4457154,0 5.5464532,6.4449169,0 5.5465279,6.4447531,0 5.5465369,6.4447333,0 5.5467063,6.4443615,0 5.5469101,6.443914000000001,0 5.5469757,6.443769900000001,0 5.547033,6.4436441,0 5.5473715,6.4429009,0 5.5475045,6.442601899999999,0 5.5476675,6.4422354,0 5.547724,6.4421084,0 5.547924,6.4416589,0 5.5479505,6.441603,0 5.5482674,6.4409339,0 5.5483003,6.4408593,0 5.5483272,6.4407984,0 5.5484736,6.4404723,0 5.5487853,6.4397781,0 5.5489946,6.4392948,0 5.5491331,6.4389918,0 5.5492455,6.4387458,0 5.5494797,6.438242,0 5.5495869,6.4380108,0 5.5496359,6.437905099999999,0 5.549984,6.4371545,0 5.5501369,6.4368106,0 5.5501728,6.436729800000001,0 5.550332,6.436371699999999,0 5.5503922,6.4362362,0 5.5504721,6.4360564,0 5.5506175,6.435737200000001,0 5.550887,6.4351458,0 5.5509603,6.434985,0 5.5511123,6.4346561,0 5.5513996,6.4340347,0 5.5514753,6.433870900000001,0 5.5515282,6.4337508,0 5.5516891,6.4333854,0 5.5518731,6.4329673,0 5.5519634,6.432762099999999,0 5.5523187,6.4319342,0 5.5523876,6.4317684,0 5.5525332,6.431438500000001,0 5.5528372,6.4307498,0 5.5529379,6.430435,0 5.5530038,6.430268,0 5.5530546,6.4301401,0 5.5536634,6.428605400000001,0 5.5538571,6.4281084,0 5.5539964,6.4277528,0 5.5541869,6.4272678,0 5.5541897,6.4272609,0 5.5546603,6.4260919,0 5.554668,6.426072900000001,0 5.5548713,6.425587500000001,0 5.5549981,6.4252408,0 5.5551272,6.4249132,0 5.5551616,6.424825800000001,0 5.5554049,6.424212100000001,0 5.5555792,6.4237762,0 5.5558594,6.4230756,0 5.5560459,6.4226057,0 5.556094,6.4224845,0 5.5561123,6.422438400000001,0 5.5563868,6.4217473,0 5.5564594,6.4215645,0 5.5565877,6.4212344,0 5.5566066,6.4211855,0 5.5566223,6.4211449,0 5.5571407,6.4198141,0 5.5571686,6.419743399999999,0 5.5572421,6.4195571,0 5.5574265,6.4190949,0 5.5575089,6.4188883,0 5.5577603,6.418259,0 5.5578747,6.4179727,0 5.5579963,6.4176684,0 5.55811,6.417383800000001,0 5.5582217,6.417107299999999,0 5.5584672,6.4164998,0 5.558564,6.416260300000001,0 5.558567,6.4162528,0 5.5587407,6.4158049,0 5.559001,6.4151336,0 5.5590372,6.4150403,0 5.5591145,6.4148489,0 5.5594148,6.4141059,0 5.5594419,6.4140389,0 5.5596701,6.413467899999999,0 5.5597653,6.4131966,0 5.5601024,6.412378400000001,0 5.5602126,6.4121108,0 5.560413,6.4116093,0 5.5604142,6.4116064,0 5.5604441,6.4115315,0 5.5606359,6.4110418,0 5.5606616,6.410977,0 5.5608697,6.410449900000001,0 5.5608765,6.410431099999999,0 5.5608782,6.4104264,0 5.5611118,6.409825499999999,0 5.5611326,6.409771099999999,0 5.561399,6.4090718,0 5.5616545,6.408436200000001,0 5.5619547,6.4076519,0 5.5620944,6.4073122,0 5.562192,6.407062400000001,0 5.5624679,6.4063564,0 5.5625223,6.4062172,0 5.562715,6.4057501,0 5.563015,6.405012,0 5.5631872,6.4045599,0 5.5632898,6.4042836,0 5.5634605,6.4038521,0 5.5636191,6.4034481,0 5.5638077,6.402982300000001,0 5.564038,6.402402599999999,0 5.5643229,6.4016877,0 5.5643712,6.4015665,0 5.5645712,6.4010648,0 5.5645894,6.401018799999999,0 5.5649677,6.4000601,0 5.5652827,6.399286,0 5.5653652,6.3990558,0 5.5656531,6.3983567,0 5.5657477,6.3981465,0 5.5660141,6.3974353,0 5.5662213,6.3968976,0 5.5664897,6.3962878,0 5.5665099,6.396231999999999,0 5.5666113,6.3959323,0 5.56678,6.395488,0 5.5667945,6.3954513,0 5.5669152,6.3951615,0 5.5669837,6.394995,0 5.5670706,6.3947678,0 5.5672439,6.3943082,0 5.5674596,6.3937711,0 5.5676431,6.3933105,0 5.5677772,6.3929973,0 5.5679601,6.392530099999999,0 5.5680622,6.3922791,0 5.5682861,6.3917706,0 5.5683477,6.3916015,0 5.5684474,6.391328000000001,0 5.5685121,6.391147900000001,0 5.5687985,6.390423,0 5.5689318,6.3900878,0 5.5690807,6.389687099999999,0 5.5693618,6.3889216,0 5.5694133,6.3888259,0 5.5694887,6.388664699999999,0 5.5698285,6.387777300000001,0 5.5700013,6.387411099999999,0 5.5700301,6.3873354,0 5.5703777,6.3864218,0 5.5704158,6.3863266,0 5.5707852,6.3854047,0 5.5708472,6.3852943,0 5.5710743,6.3848701,0 5.5713372,6.3844311,0 5.5713824,6.3843676,0 5.5718438,6.3836461,0 5.572081,6.3832751,0 5.5722226,6.3830292,0 5.5722561,6.382969400000001,0 5.5724017,6.382773200000001,0 5.5727368,6.38226,0 5.5727642,6.382218100000001,0 5.573142,6.3816989,0 5.5737501,6.3808037,0 5.5737772,6.3807571,0 5.5739845,6.3804229,0 5.5742862,6.3799212,0 5.5744325,6.3796454,0 5.5744438,6.3795563,0 5.5744657,6.379501099999999,0 5.5744983,6.3794591,0 5.5745292,6.3794132,0 5.5745387,6.379399099999999,0 5.5745395,6.379397700000001,0 5.5745834,6.3793202,0 5.5747379,6.3790727,0 5.5748266,6.3789344,0 5.5750299,6.3786175,0 5.5751673,6.3784117,0 5.5752104,6.378350799999999,0 5.5754365,6.3779849,0 5.5758319,6.3773525,0 5.576064,6.3769872,0 5.5760974,6.3769378,0 5.5762268,6.3767411,0 5.5764044,6.3764654,0 5.5767815,6.3759082,0 5.5770334,6.375542699999999,0 5.5774534,6.3749201,0 5.5782836,6.3736801,0 5.5783492,6.3735791,0 5.5790341,6.372655800000001,0 5.5792314,6.3723868,0 5.5793989,6.3721713,0 5.5797616,6.3716596,0 5.5800709,6.3712162,0 5.5801741,6.3710683,0 5.5804064,6.3707353,0 5.581549,6.3691137,0 5.5815844,6.3690635,0 5.581758,6.3688208,0 5.5818547,6.368688,0 5.5823946,6.3679331,0 5.5827472,6.3674278,0 5.5828717,6.3672529,0 5.5830982,6.3669494,0 5.5832632,6.366711900000001,0 5.5833655,6.366587600000001,0 5.5835098,6.3664204,0 5.5836164,6.3663022,0 5.5836253,6.3662924,0 5.5836413,6.3662749,0 5.5837755,6.366130999999999,0 5.5838489,6.3660719,0 5.5839765,6.3659702,0 5.5840793,6.3658961,0 5.5842026,6.365804800000001,0 5.5842635,6.365764000000001,0 5.5843382,6.3657154,0 5.5844487,6.3656539,0 5.5846221,6.3655648,0 5.5847355,6.3655085,0 5.5849916,6.365381299999999,0 5.5852085,6.365269200000001,0 5.5852767,6.3652309,0 5.5855026,6.3651227,0 5.5863889,6.364698300000001,0 5.5868256,6.3644885,0 5.5868292,6.364486800000001,0 5.5869776,6.3644187,0 5.5877478,6.363983200000001,0 5.5882226,6.3637434,0 5.5889673,6.3633524,0 5.5892022,6.363231599999999,0 5.5893053,6.363177800000001,0 5.5900741,6.3627851,0 5.5906242,6.3624863,0 5.5909147,6.3623189,0 5.5914228,6.3620438,0 5.5914985,6.362002899999999,0 5.5921327,6.361660200000001,0 5.5922964,6.3615789,0 5.5924305,6.3615056,0 5.5926751,6.3613773,0 5.5928578,6.3612918,0 5.5932015,6.3611415,0 5.5933,6.361094499999999,0 5.5934822,6.3609992,0 5.5937062,6.360892,0 5.5937473,6.360873000000001,0 5.5939301,6.360787800000001,0 5.5941298,6.3607061,0 5.5943316,6.3606228,0 5.5945188,6.360550700000001,0 5.5946273,6.3605198,0 5.594734,6.360479800000001,0 5.5947361,6.3604786,0 5.596031,6.3600542,0 5.5963953,6.3599379,0 5.5965466,6.3598799,0 5.5974304,6.3595659,0 5.5977588,6.3594379,0 5.5980734,6.3593218,0 5.5983369,6.359206499999999,0 5.5983493,6.3592011,0 5.5985421,6.3591163,0 5.5986474,6.3590711,0 5.5986774,6.359056599999999,0 5.5987641,6.3590298,0 5.5990203,6.358958400000001,0 5.5990642,6.3589394,0 5.5990654,6.358930599999999,0 5.5990662,6.3589258,0 5.5990672,6.358921,0 5.5990684,6.358916300000001,0 5.5990699,6.3589116,0 5.5990715,6.358907,0 5.5990734,6.358902399999999,0 5.5990755,6.358898,0 5.5990778,6.358893600000001,0 5.5990802,6.358889400000001,0 5.5990829,6.3588853,0 5.5990858,6.358881300000001,0 5.5990889,6.3588775,0 5.5990921,6.3588738,0 5.5990955,6.3588702,0 5.5990991,6.3588669,0 5.5991028,6.3588637,0 5.5991067,6.358860600000001,0 5.5991107,6.3588578,0 5.5991148,6.3588551,0 5.5991191,6.3588526,0 5.5991234,6.3588504,0 5.5991279,6.358848299999999,0 5.5991325,6.3588465,0 5.5991371,6.3588448,0 5.5991418,6.3588434,0 5.5991466,6.358842199999999,0 5.5991515,6.358841200000001,0 5.5991563,6.358840499999999,0 5.5991612,6.3588399,0 5.5991664,6.358839199999999,0 5.5992277,6.3587637,0 5.5993715,6.3585974,0 5.5994297,6.3585133,0 5.5994823,6.358431800000001,0 5.5994921,6.3584139,0 5.5995533,6.3583043,0 5.5996261,6.358161700000001,0 5.5997018,6.358015699999999,0 5.5997702,6.357884500000001,0 5.5997724,6.3578772,0 5.5998114,6.3577866,0 5.5998472,6.3576752,0 5.5998766,6.3575867,0 5.599915,6.3574239,0 5.5999298,6.3573357,0 5.5999382,6.357245900000001,0 5.599958,6.3571016,0 5.5999765,6.3569394,0 5.5999908,6.356829,0 5.6000069,6.356620500000001,0 5.6000203,6.3564532,0 5.6000305,6.3563189,0 5.6000392,6.3562502,0 5.6000452,6.35618,0 5.6000492,6.3561557,0 5.6000933,6.355926,0 5.6001446,6.3557146,0 5.6002739,6.3552962,0 5.6003387,6.355137600000001,0 5.6004368,6.3548943,0 5.6008114,6.3541003,0 5.6009322,6.3538451,0 5.6010581,6.353504500000001,0 5.6010692,6.3534782,0 5.6012955,6.3529146,0 5.6013897,6.3526817,0 5.6015915,6.3522626,0 5.6018441,6.3518407,0 5.60191,6.3517365,0 5.6019617,6.3516623,0 5.6020143,6.3515973,0 5.6023328,6.351220099999999,0 5.6023485,6.3511998,0 5.602616,6.3509251,0 5.6028914,6.3506751,0 5.6033529,6.350292,0 5.6034171,6.3502419,0 5.603488,6.3501929,0 5.6036594,6.3500728,0 5.6037267,6.3500146,0 5.6037475,6.3499989,0 5.6040428,6.3497877,0 5.6042849,6.3496075,0 5.6044476,6.3494799,0 5.6051978,6.3488415,0 5.6052013,6.3488386,0 5.605591,6.348517,0 5.605935,6.348236199999999,0 5.6063812,6.347871,0 5.6067308,6.347590099999999,0 5.6069657,6.3474007,0 5.6071638,6.347260300000001,0 5.6071916,6.3472421,0 5.6073935,6.3471041,0 5.6078088,6.3469091,0 5.6080984,6.346782999999999,0 5.6083152,6.3466869,0 5.6083295,6.3467224,0 5.60835,6.3467643,0 5.6083874,6.3468351,0 5.6085254,6.3471304,0 5.6086602,6.347407099999999,0 5.6086646,6.347418,0 5.6087971,6.347716300000001,0 5.6089557,6.3480202,0 5.6091046,6.3483225,0 5.6092347,6.348596299999999,0 5.6094936,6.3491146,0 5.6095725,6.3492991,0 5.6096582,6.3494636,0 5.6097697,6.3496977,0 5.6099125,6.3500426,0 5.6099686,6.3501722,0 5.6100447,6.3503746,0 5.6100599,6.350402999999999,0 5.6101924,6.3507043,0 5.6102301,6.3507915,0 5.6102682,6.35089,0 5.610339,6.3510109,0 5.6105245,6.3514045,0 5.6105985,6.3515519,0 5.6106545,6.3516656,0 5.6106999,6.3517671,0 5.6107286,6.3518313,0 5.6108154,6.3520323,0 5.610845,6.352096700000001,0 5.6109117,6.3522458,0 5.6109601,6.3523724,0 5.6110934,6.352637,0 5.6113013,6.3530759,0 5.6113121,6.3530971,0 5.6114471,6.3534066,0 5.6115919,6.3536824,0 5.6116277,6.3537584,0 5.6118315,6.3541605,0 5.6119871,6.3545082,0 5.6120891,6.3544436,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="results">
+			<name>UGBOGUI</name>
+			<Style id="dir_step">
+				<IconStyle>
+					<Icon>
+						<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+					</Icon>
+				</IconStyle>
+				<BalloonStyle>
+					<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+					<textColor>ff000000</textColor>
+					<displayMode>default</displayMode>
+				</BalloonStyle>
+			</Style>
+			<Placemark id="1.1">
+				<address>OVIA SOUTH WEST LOCAL GOVERNMENT COUNCIL SECRETARIAT, IGUOBAZUWA.</address>
+				<styleUrl>#dir_startpoint</styleUrl>
+				<Point>
+					<coordinates>5.3625694,6.5593083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2">
+				<address>Igbinoba Primary School</address>
+				<styleUrl>#dir_endpoint</styleUrl>
+				<Point>
+					<coordinates>5.2422167,6.695761099999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder id="1.3">
+				<name>Benin-Sagamu Expy/A121</name>
+				<Style id="dir_route">
+					<LineStyle>
+						<color>7fa00000</color>
+						<colorMode>normal</colorMode>
+						<width>6</width>
+					</LineStyle>
+				</Style>
+				<Placemark id="1.3.2.2.2">
+					<name>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</name>
+					<description>Head northwest on Okokpon-Iguoriakhi-Evbodia Rd/Siluko Rd</description>
+					<LookAt>
+						<longitude>5.3626229</longitude>
+						<latitude>6.5593305</latitude>
+						<altitude>0</altitude>
+						<heading>-29.66872</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.659330499999999</north>
+							<south>6.4593305</south>
+							<east>5.4626229</east>
+							<west>5.2626229</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3626229,6.5593305,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.3">
+					<name>Continue onto Siluko-Iguobazuwa Rd</name>
+					<description>Continue onto Siluko-Iguobazuwa Rd</description>
+					<LookAt>
+						<longitude>5.3525757</longitude>
+						<latitude>6.5642494</latitude>
+						<altitude>0</altitude>
+						<heading>-127.079636</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.664249399999999</north>
+							<south>6.4642494</south>
+							<east>5.4525757</east>
+							<west>5.2525757</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3525757,6.5642494,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.4">
+					<name>Turn right</name>
+					<description>Turn right</description>
+					<LookAt>
+						<longitude>5.3510288</longitude>
+						<latitude>6.5630094</latitude>
+						<altitude>0</altitude>
+						<heading>-128.82182</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.6630094</north>
+							<south>6.463009400000001</south>
+							<east>5.4510288</east>
+							<west>5.2510288</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3510288,6.563009400000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.5">
+					<name>Merge onto Okokpon-Iguoriakhi-Evbodia Rd</name>
+					<description>Merge onto Okokpon-Iguoriakhi-Evbodia Rd</description>
+					<LookAt>
+						<longitude>5.3467119</longitude>
+						<latitude>6.574112899999999</latitude>
+						<altitude>0</altitude>
+						<heading>-37.518707</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.674112899999999</north>
+							<south>6.4741129</south>
+							<east>5.446711899999999</east>
+							<west>5.2467119</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.3467119,6.574112899999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.2.6">
+					<name>Turn left at Okada junction, Lagos-Benin Expy onto Benin-Sagamu Expy/A121</name>
+					<description>Turn left at Okada junction, Lagos-Benin Expy onto Benin-Sagamu Expy/A121</description>
+					<LookAt>
+						<longitude>5.333571099999999</longitude>
+						<latitude>6.6355115</latitude>
+						<altitude>0</altitude>
+						<heading>13.500981</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.735511499999999</north>
+							<south>6.5355115</south>
+							<east>5.433571099999999</east>
+							<west>5.2335711</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.333571099999999,6.6355115,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.3.2">
+					<name>Turn right</name>
+					<description>Turn right</description>
+					<LookAt>
+						<longitude>5.2700527</longitude>
+						<latitude>6.6688874</latitude>
+						<altitude>0</altitude>
+						<heading>-57.21906</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.7688874</north>
+							<south>6.5688874</south>
+							<east>5.3700527</east>
+							<west>5.1700527</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.2700527,6.6688874,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.3.3">
+					<name>Turn left</name>
+					<description>Turn left</description>
+					<LookAt>
+						<longitude>5.2736812</longitude>
+						<latitude>6.6830899</latitude>
+						<altitude>0</altitude>
+						<heading>11.686974</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.783089899999999</north>
+							<south>6.5830899</south>
+							<east>5.373681199999999</east>
+							<west>5.1736812</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.2736812,6.6830899,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.3.4">
+					<name>Turn right</name>
+					<description>Turn right</description>
+					<LookAt>
+						<longitude>5.242725500000001</longitude>
+						<latitude>6.69229</latitude>
+						<altitude>0</altitude>
+						<heading>-66.37112399999999</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.792289999999999</north>
+							<south>6.59229</south>
+							<east>5.3427255</east>
+							<west>5.142725500000001</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.242725500000001,6.69229,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.3.5">
+					<name>Turn left</name>
+					<description>Turn left</description>
+					<LookAt>
+						<longitude>5.2427411</longitude>
+						<latitude>6.6923664</latitude>
+						<altitude>0</altitude>
+						<heading>11.463953</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.7923664</north>
+							<south>6.5923664</south>
+							<east>5.3427411</east>
+							<west>5.1427411</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.2427411,6.6923664,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.3.6">
+					<name>Turn right at A.U.E &amp; EDDY AGRO</name>
+					<description>Turn right at A.U.E &amp; EDDY AGRO</description>
+					<LookAt>
+						<longitude>5.241812899999999</longitude>
+						<latitude>6.692783299999999</latitude>
+						<altitude>0</altitude>
+						<heading>-82.96032</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.792783299999999</north>
+							<south>6.5927833</south>
+							<east>5.341812899999999</east>
+							<west>5.1418129</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.241812899999999,6.692783299999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2.3.7">
+					<name>Turn left</name>
+					<description>Turn left</description>
+					<LookAt>
+						<longitude>5.241941199999999</longitude>
+						<latitude>6.693526899999999</latitude>
+						<altitude>0</altitude>
+						<heading>14.717965</heading>
+						<tilt>45</tilt>
+						<range>360</range>
+					</LookAt>
+					<styleUrl>#dir_step</styleUrl>
+					<Region>
+						<LatLonAltBox>
+							<north>6.793526899999999</north>
+							<south>6.5935269</south>
+							<east>5.341941199999999</east>
+							<west>5.1419412</west>
+							<minAltitude>0</minAltitude>
+							<maxAltitude>0</maxAltitude>
+							<altitudeMode>absolute</altitudeMode>
+						</LatLonAltBox>
+						<Lod>
+							<minLodPixels>512</minLodPixels>
+							<maxLodPixels>-1</maxLodPixels>
+							<minFadeExtent>0</minFadeExtent>
+							<maxFadeExtent>0</maxFadeExtent>
+						</Lod>
+					</Region>
+					<Point>
+						<coordinates>5.241941199999999,6.693526899999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="1.3.2">
+					<name>Route</name>
+					<styleUrl>#dir_route</styleUrl>
+					<LineString>
+						<coordinates>
+							5.3626229,6.5593305,0 5.3626229,6.5593305,0 5.3626156,6.5593479,0 5.362419,6.5596796,0 5.3622066,6.559927700000001,0 5.361934,6.560202099999999,0 5.3619165,6.560220500000001,0 5.3619158,6.5602212,0 5.3616991,6.5604484,0 5.3615352,6.5606046,0 5.3613692,6.5607639,0 5.3610303,6.5610894,0 5.3609909,6.5611281,0 5.360862,6.5612545,0 5.3607735,6.5613413,0 5.3602196,6.5618881,0 5.3601716,6.561937500000001,0 5.3600974,6.5620086,0 5.3594933,6.5625819,0 5.3589282,6.5631071,0 5.3585293,6.5634779,0 5.3583258,6.5636546,0 5.358046,6.5638976,0 5.3578693,6.564040900000001,0 5.3577742,6.5641178,0 5.3573247,6.564498500000001,0 5.3571284,6.5646668,0 5.3569884,6.564788699999999,0 5.3568856,6.564875,0 5.3565068,6.5652129,0 5.3564148,6.5652939,0 5.3562572,6.5654122,0 5.3560182,6.5655726,0 5.3559628,6.5656133,0 5.3556441,6.565821100000001,0 5.3553774,6.5659382,0 5.3553139,6.5659661,0 5.3551556,6.5660155,0 5.3550284,6.5660266,0 5.3548829,6.566017099999999,0 5.3547422,6.565985900000001,0 5.3546292,6.565928900000001,0 5.3545012,6.565864199999999,0 5.3543803,6.565766699999999,0 5.3543691,6.5657576,0 5.3541954,6.5655702,0 5.3539944,6.565378,0 5.3538639,6.5652533,0 5.3536992,6.5650959,0 5.3534484,6.564907199999999,0 5.3528638,6.5644657,0 5.3525757,6.5642494,0 5.3518288,6.5636489,0 5.3510288,6.563009400000001,0 5.35069,6.5639327,0 5.3504711,6.5645324,0 5.3504567,6.5645785,0 5.3502023,6.565268999999999,0 5.3499534,6.5659446,0 5.3498077,6.566316899999999,0 5.3494942,6.567118100000001,0 5.3494797,6.567155099999999,0 5.3492345,6.5677816,0 5.3491637,6.5679626,0 5.3491367,6.5680493,0 5.3489959,6.5684475,0 5.3489519,6.568570599999999,0 5.3489174,6.5686533,0 5.348731,6.569137,0 5.3484944,6.5697729,0 5.3483689,6.5701103,0 5.3483123,6.5702393,0 5.3481802,6.570575800000001,0 5.3481,6.5708107,0 5.3480696,6.570890699999999,0 5.3478816,6.5713901,0 5.3476241,6.5720823,0 5.3475015,6.5724217,0 5.3473012,6.5729848,0 5.3471958,6.573267300000001,0 5.3471638,6.573353200000001,0 5.3470221,6.573643699999999,0 5.3468446,6.5739411,0 5.3467138,6.574111,0 5.3467119,6.574112899999999,0 5.3462568,6.5745706,0 5.3460798,6.574743400000001,0 5.3454715,6.5752686,0 5.3453965,6.5753333,0 5.3446427,6.575966299999999,0 5.3445523,6.5760422,0 5.3444233,6.5761643,0 5.3440665,6.5764813,0 5.3438364,6.5766893,0 5.3435143,6.5769804,0 5.3432941,6.577179499999999,0 5.3432458,6.5772246,0 5.3430875,6.5773722,0 5.3428461,6.577580000000001,0 5.3426427,6.5777593,0 5.3423253,6.5780388,0 5.3420415,6.5782888,0 5.3419644,6.5783653,0 5.3418698,6.5784593,0 5.3414568,6.5788697,0 5.3412756,6.5790474,0 5.3412449,6.579077499999999,0 5.3411024,6.579218699999999,0 5.3405521,6.5795823,0 5.3403913,6.579688600000001,0 5.3402867,6.579820400000001,0 5.3393077,6.581054600000001,0 5.3392976,6.5810672,0 5.3389418,6.5815155,0 5.3389343,6.581525,0 5.3384226,6.582169599999999,0 5.3383738,6.582231199999999,0 5.3381573,6.582504400000001,0 5.3377777,6.5829834,0 5.3376382,6.5831594,0 5.3374777,6.583361699999999,0 5.3374415,6.583407300000001,0 5.3371053,6.583831,0 5.3369172,6.5840679,0 5.336881,6.584113399999999,0 5.3367689,6.5842547,0 5.3365447,6.5845372,0 5.3363205,6.584819699999999,0 5.3360683,6.5851375,0 5.3359843,6.5852435,0 5.3359084,6.5853392,0 5.3358723,6.585384799999999,0 5.3355363,6.585808699999999,0 5.3353122,6.586091400000001,0 5.3352842,6.586126699999999,0 5.3352363,6.586186999999999,0 5.3352001,6.586232600000001,0 5.3351683,6.586272499999999,0 5.3346399,6.586939,0 5.3343874,6.5872574,0 5.3343036,6.587362800000001,0 5.3342276,6.587458399999999,0 5.3337138,6.5881047,0 5.3336666,6.5881643,0 5.3336323,6.5882076,0 5.3336306,6.5882099,0 5.3331985,6.5887873,0 5.3327384,6.5894019,0 5.3325503,6.5896533,0 5.3321182,6.5902307,0 5.3320461,6.5903271,0 5.332045,6.5903285,0 5.3315776,6.5909521,0 5.3315044,6.5910498,0 5.3314695,6.5910964,0 5.3309637,6.5917712,0 5.3309289,6.591817699999999,0 5.3309058,6.5918485,0 5.3302006,6.593517,0 5.3301722,6.5935838,0 5.3301603,6.5936119,0 5.3301521,6.5936382,0 5.3300984,6.59381,0 5.3298469,6.5946133,0 5.3298296,6.5946687,0 5.3297758,6.594840499999999,0 5.3294914,6.595749199999999,0 5.3294712,6.5958131,0 5.3294704,6.595815599999999,0 5.3294005,6.5960431,0 5.3293477,6.5962151,0 5.3293119,6.5963316,0 5.3291891,6.5967312,0 5.3289621,6.59747,0 5.3289418,6.597535800000001,0 5.3289247,6.5975913,0 5.3288989,6.5976749,0 5.3287573,6.5983334,0 5.3287167,6.5985222,0 5.3287027,6.598588099999999,0 5.3286821,6.598685199999999,0 5.3286072,6.5990372,0 5.3286044,6.5990507,0 5.3285904,6.599116,0 5.3285695,6.599213099999999,0 5.3285475,6.5993152,0 5.3284253,6.6008247,0 5.3284239,6.6008418,0 5.3284189,6.600905,0 5.3284112,6.601003999999999,0 5.3284072,6.601054499999999,0 5.3284486,6.602342799999999,0 5.3284518,6.602442,0 5.3284635,6.602805,0 5.3284692,6.602981399999999,0 5.3284809,6.6033409,0 5.3284816,6.603362500000001,0 5.3284834,6.6034214,0 5.3285059,6.6041405,0 5.328509,6.604239800000001,0 5.3285315,6.6049589,0 5.3285397,6.605219199999999,0 5.3285444,6.6053696,0 5.3285344,6.6075573,0 5.3285342,6.6075974,0 5.3285339,6.6076566,0 5.3285306,6.6083761,0 5.3285297,6.608585599999999,0 5.3285289,6.608735800000001,0 5.328525,6.6094864,0 5.3285245,6.609575899999999,0 5.3285242,6.609635100000001,0 5.3285238,6.6097157,0 5.3285233,6.609815,0 5.3285206,6.6103546,0 5.3285179,6.6108942,0 5.3285161,6.6112539,0 5.3285159,6.611288699999999,0 5.3285157,6.611374500000001,0 5.3285156,6.6114019,0 5.3285152,6.6114337,0 5.3285144,6.6115143,0 5.328502,6.6126927,0 5.3284932,6.6135328,0 5.3284926,6.613591999999999,0 5.3284918,6.6136708,0 5.3284918,6.6136726,0 5.3284881,6.6142781,0 5.3284871,6.6144321,0 5.3284837,6.6149746,0 5.3284802,6.615539200000001,0 5.3284773,6.616010700000001,0 5.3284769,6.6160788,0 5.3284684,6.6174496,0 5.3284681,6.6174976,0 5.3284678,6.6175177,0 5.3284653,6.6176975,0 5.3284477,6.6189564,0 5.3284462,6.619068199999999,0 5.3284453,6.6191363,0 5.3284451,6.619148,0 5.3284373,6.6196758,0 5.3284331,6.6199601,0 5.3284324,6.620035500000001,0 5.3284279,6.620507,0 5.3284239,6.6209348,0 5.3284188,6.6214744,0 5.3284069,6.6227334,0 5.3284058,6.6228452,0 5.3284052,6.622909999999999,0 5.3284052,6.622913200000001,0 5.3284062,6.6230931,0 5.3284073,6.623320000000001,0 5.3284366,6.6238486,0 5.32844,6.6239095,0 5.3284832,6.6240985,0 5.328554,6.624408400000001,0 5.3286042,6.624601800000001,0 5.3286472,6.6247675,0 5.3288801,6.625264700000001,0 5.3289565,6.6254277,0 5.3289659,6.6254477,0 5.3292723,6.626101500000001,0 5.3293389,6.6262429,0 5.3293483,6.6262629,0 5.3294156,6.626405900000001,0 5.3297222,6.6270577,0 5.3297316,6.627077600000001,0 5.3298756,6.627383600000001,0 5.3299523,6.627546500000001,0 5.3301823,6.628035299999999,0 5.3302648,6.6282067,0 5.3304507,6.628604,0 5.3306006,6.6289217,0 5.3306554,6.6290183,0 5.3307681,6.629274200000001,0 5.3309378,6.62962,0 5.3310429,6.6298341,0 5.3310695,6.6298927,0 5.3311511,6.6300845,0 5.3313784,6.6305746,0 5.3315457,6.630935299999999,0 5.3315943,6.6310391,0 5.3319178,6.6317409,0 5.3321585,6.632263,0 5.3323113,6.6325815,0 5.3325908,6.633197999999999,0 5.3326867,6.6333873,0 5.3328227,6.6336865,0 5.3330281,6.6341301,0 5.3330375,6.6341523,0 5.3332846,6.6346701,0 5.3333498,6.6348343,0 5.3333661,6.634874900000001,0 5.3334889,6.6352018,0 5.3335349,6.635357099999999,0 5.3335711,6.6355115,0 5.3335943,6.6355962,0 5.3333381,6.635711099999999,0 5.3326746,6.6359722,0 5.3322293,6.6361276,0 5.3320585,6.6361872,0 5.3318942,6.6362445,0 5.3309241,6.636583,0 5.3306696,6.6366724,0 5.3303772,6.6367722,0 5.3295371,6.6370575,0 5.3290212,6.6372326,0 5.3287545,6.6373231,0 5.3286873,6.6373464,0 5.3267944,6.638039899999999,0 5.3261282,6.638248700000001,0 5.3261073,6.638255200000001,0 5.3259555,6.638302800000001,0 5.3257828,6.638356900000001,0 5.3239111,6.6389435,0 5.3238624,6.6389588,0 5.323538,6.639061,0 5.3223089,6.639447999999999,0 5.3217771,6.6396184,0 5.3216629,6.639655,0 5.3207499,6.639969999999999,0 5.3205789,6.640029,0 5.3203188,6.6401187,0 5.3191091,6.640563,0 5.3183808,6.6408643,0 5.3182136,6.6409335,0 5.3178802,6.6410738,0 5.3174257,6.6412651,0 5.3172159,6.6413605,0 5.3168243,6.6415386,0 5.3159112,6.6419855,0 5.3157488,6.642064999999999,0 5.3155863,6.6421445,0 5.3154237,6.6422235,0 5.315261,6.6423026,0 5.3137971,6.643013899999999,0 5.3134733,6.643175,0 5.3118542,6.6439805,0 5.3113678,6.644220799999999,0 5.310395,6.6447015,0 5.3095003,6.6451388,0 5.3089365,6.6454052,0 5.3065042,6.6466242,0 5.3060225,6.6468656,0 5.305238,6.6472215,0 5.3040594,6.647799000000001,0 5.3037351,6.647959299999999,0 5.3024861,6.648576899999999,0 5.3020684,6.6487907,0 5.3014674,6.6490849,0 5.301041,6.6492937,0 5.3005007,6.649577200000001,0 5.3003405,6.649661199999999,0 5.3001804,6.6497452,0 5.2995448,6.6500901,0 5.2994618,6.6501351,0 5.2992336,6.650274,0 5.2983897,6.6507876,0 5.2981546,6.650934800000001,0 5.2977477,6.6511896,0 5.2976955,6.6512232,0 5.2975437,6.651321199999999,0 5.2973918,6.6514192,0 5.2967843,6.651811,0 5.2960244,6.6522998,0 5.2958724,6.6523976,0 5.2955684,6.652593200000001,0 5.2952644,6.6527887,0 5.2939218,6.653633499999999,0 5.2929766,6.654243,0 5.2928246,6.6543409,0 5.2926727,6.654438800000001,0 5.2925209,6.6545367,0 5.2923686,6.654634100000001,0 5.2911508,6.655413399999999,0 5.2905369,6.6558054,0 5.2893457,6.6565663,0 5.288563,6.6570648,0 5.287644,6.657649,0 5.2860577,6.6586594,0 5.2859718,6.6587141,0 5.2859056,6.658757099999999,0 5.2857541,6.6588557,0 5.2856027,6.6589543,0 5.2851483,6.65925,0 5.2849968,6.6593486,0 5.2842503,6.6598343,0 5.2842393,6.6598412,0 5.2834762,6.6603253,0 5.2834111,6.660366600000001,0 5.2831708,6.6605186,0 5.2803766,6.6622861,0 5.2796588,6.6627424,0 5.278319,6.6635939,0 5.2773122,6.6642399,0 5.2761526,6.6649752,0 5.2759999,6.665072,0 5.2758473,6.6651688,0 5.2756946,6.6652656,0 5.2755286,6.6653708,0 5.2749349,6.6657548,0 5.2747832,6.665853,0 5.2729622,6.6670308,0 5.2724542,6.6673594,0 5.2722013,6.6675183,0 5.2713292,6.668066399999999,0 5.2708179,6.6683937,0 5.2706765,6.6684884,0 5.2700527,6.6688874,0 5.2700881,6.668955699999999,0 5.2701209,6.669027900000001,0 5.2701418,6.669090399999999,0 5.2701499,6.6691303,0 5.2701566,6.669172900000001,0 5.2701619,6.6692035,0 5.2701713,6.6692487,0 5.2701834,6.6692979,0 5.2701994,6.6693565,0 5.270245,6.6696185,0 5.2702511,6.6696546,0 5.2702812,6.6698319,0 5.2703414,6.6701867,0 5.2703952,6.670503300000001,0 5.2704451,6.670716100000001,0 5.2704862,6.670891299999999,0 5.2705325,6.6710884,0 5.2706071,6.6714173,0 5.2706284,6.671511,0 5.2707668,6.6720137,0 5.2709578,6.6726269,0 5.2710605,6.672956800000001,0 5.2712664,6.6734395,0 5.2713878,6.673665700000001,0 5.2715058,6.6738926,0 5.2715861,6.674094800000001,0 5.2716425,6.6742868,0 5.2717038,6.6744552,0 5.2718273,6.6746784,0 5.2718641,6.6747777,0 5.2721769,6.6756217,0 5.2722395,6.675790500000001,0 5.2722409,6.6757943,0 5.2723045,6.6759659,0 5.272393,6.676307399999999,0 5.2724762,6.6766285,0 5.2725964,6.6774937,0 5.2726009,6.6775476,0 5.2726455,6.6780854,0 5.2726458,6.6780895,0 5.2726513,6.678156199999999,0 5.2726701,6.678263400000001,0 5.27272,6.6785476,0 5.2727438,6.6791587,0 5.2729102,6.6798582,0 5.2729931,6.6802071,0 5.2730165,6.6804356,0 5.2732139,6.6810246,0 5.2732838,6.681432599999999,0 5.2733129,6.681602500000001,0 5.2733254,6.681675700000001,0 5.2734599,6.6821215,0 5.2734621,6.6821287,0 5.2735234,6.6823318,0 5.2736147,6.6827706,0 5.2736812,6.6830899,0 5.273458,6.6831071,0 5.2731927,6.6831071,0 5.2728332,6.6831071,0 5.2725448,6.6831448,0 5.2717492,6.6831332,0 5.2715973,6.683131,0 5.2715681,6.683132,0 5.2706632,6.683163,0 5.2703922,6.683172299999999,0 5.26976,6.683223700000001,0 5.2696334,6.683234,0 5.2694034,6.6832168,0 5.2690382,6.6832492,0 5.2690155,6.6832512,0 5.2686761,6.683257,0 5.268495,6.6832601,0 5.2681329,6.6832662,0 5.2679518,6.6832693,0 5.2672276,6.6832816,0 5.2670465,6.683284699999999,0 5.2668655,6.6832878,0 5.2667942,6.683289,0 5.266323,6.6833175,0 5.2659615,6.6833394,0 5.2657808,6.6833503,0 5.2654862,6.683368,0 5.2646725,6.683378200000001,0 5.2636092,6.683423899999999,0 5.2634742,6.6834297,0 5.2634286,6.6834356,0 5.2632099,6.6834641,0 5.2627065,6.683484199999999,0 5.2616208,6.683527599999999,0 5.2602882,6.6835808,0 5.2592187,6.6836273,0 5.2583141,6.6836666,0 5.2578987,6.683790100000001,0 5.2572086,6.6840578,0 5.2571091,6.684147099999999,0 5.2571016,6.684149000000001,0 5.2569476,6.6841882,0 5.2569278,6.6841981,0 5.2556344,6.6848463,0 5.2555297,6.6848988,0 5.2554718,6.6849255,0 5.2549791,6.685152899999999,0 5.2547264,6.6852695,0 5.2540167,6.685652900000001,0 5.2538576,6.6857388,0 5.2538372,6.6857499,0 5.2535278,6.685887399999999,0 5.2528794,6.6861755,0 5.2528668,6.6861816,0 5.2520526,6.6865753,0 5.2519352,6.6866321,0 5.2519008,6.6866801,0 5.2517738,6.6867109,0 5.2509414,6.6871593,0 5.2504452,6.6874265,0 5.2497379,6.6878587,0 5.2496281,6.6879341,0 5.2495696,6.6880165,0 5.2494804,6.6880405,0 5.2488389,6.6884532,0 5.2487972,6.68848,0 5.2486714,6.6885444,0 5.2486565,6.688552,0 5.2486052,6.688561399999999,0 5.2485432,6.6885727,0 5.2484813,6.688648199999999,0 5.2481758,6.6888576,0 5.248167,6.6888735,0 5.2481416,6.6889195,0 5.247987,6.6889813,0 5.2476746,6.689207800000001,0 5.247338,6.6894035,0 5.2471765,6.6894934,0 5.247029,6.6895684,0 5.2469879,6.689623300000001,0 5.2466686,6.6898327,0 5.2462086,6.690059199999999,0 5.2461365,6.690189699999999,0 5.2459613,6.690251599999999,0 5.245827,6.690338399999999,0 5.2457314,6.690395700000001,0 5.2455718,6.6904863,0 5.2454773,6.6905399,0 5.2452439,6.6907116,0 5.2447392,6.6909999,0 5.2445606,6.6911407,0 5.2444874,6.6911896,0 5.2444027,6.6912507,0 5.2438054,6.6916112,0 5.243733,6.6916579,0 5.243486,6.691803400000001,0 5.2428851,6.6922223,0 5.2427255,6.69229,0 5.2427411,6.6923664,0 5.2424114,6.692466,0 5.2423771,6.692551800000001,0 5.2421815,6.6926721,0 5.24202,6.6927579,0 5.2418129,6.6927833,0 5.2418292,6.6929736,0 5.2418408,6.6930881,0 5.241869,6.693259,0 5.2418973,6.693360500000001,0 5.2419412,6.6935269,0 5.241893,6.693609200000001,0 5.2417488,6.694464200000001,0 5.2417309,6.6952816,0 5.2417269,6.6954614,0 5.2417206,6.6957504,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
